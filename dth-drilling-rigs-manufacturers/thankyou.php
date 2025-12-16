@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<?php include 'toplinks.php'; ?>
+<!DOCTYPE html><html lang="en"><head>
+<!--?php include 'toplinks.php'; ?-->
 <title>KGR Rigs LP</title>
 </head>
 <!-- page wrapper -->
 <body>
-<?php include 'header.php'; ?>
+<!--?php include 'header.php'; ?-->
        <!-- page-title -->
         <section class="page-title centred">
             <div class="bg-layer" style="background-image: url(img/thankyou.jpg);"></div>
@@ -60,7 +58,8 @@
         <!-- project-details end -->
   
 
-<?php include 'footer.php'; ?>
-<?php include 'bottomlinks.php'; ?>
-</body>
-</html>
+<!--?php include 'footer.php'; ?-->
+<!--?php include 'bottomlinks.php'; ?-->
+
+
+</body></html>

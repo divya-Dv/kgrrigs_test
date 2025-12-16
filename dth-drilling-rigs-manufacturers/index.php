@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<?php include 'toplinks.php'; ?>
+<!DOCTYPE html><html lang="en"><head>
+<!--?php include 'toplinks.php'; ?-->
 <title>Dth Drilling Rigs Manufacturers- KGR Rigs</title>
 <style type="text/css">
 .owl-carousel .owl-item {
@@ -58,7 +56,7 @@
 </head>
 <!-- page wrapper -->
 <body>
-<?php include 'header.php'; ?>
+<!--?php include 'header.php'; ?-->
         <!-- banner-section -->
 <!--         <section class="banner-section">
           <div id="carouselExampleAutoplaying" class="carousel slide carousel-fade" data-bs-ride="carousel">
@@ -100,7 +98,7 @@
                 <div class="slide-item">
                     <div class="image-layer banner01-img" style=""></div>
                     <div class="auto-container">
-                        <div class="content-box mv-text" >
+                        <div class="content-box mv-text">
                            <h2><span>KGR Rigs</span></h2>
                             <p>Manufacturing Customized Drilling Rigs to High Standards.</p>
                            <p style="visibility:hidden;">quality and customized rigs under the<br> supervision of Technically Qualified</p>
@@ -153,7 +151,7 @@
                 <div class="row clearfix">
                     <div class="col-lg-6 col-md-12 col-sm-12 image-column pt-0">
                         <div class="image-box">
-                            <figure class="image image-1"><img src="img/about-img.jpg" alt=""></figure>
+                            <figure class="image image-1"><picture><source srcset="img/320w/about-img_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/about-img_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/about-img_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/about-img_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about-img.webp" alt=""></picture></figure>
                             <!--<figure class="image image-2"><img src="img/about-img1.jpg" alt=""  style="border: 3px solid red;"></figure>-->
                             <div class="text-box">
                                 <h5>Years of Experience</h5>
@@ -173,10 +171,10 @@
                                     <div class="text">
                                         <p>KGR Group addresses the mining sector through a comprehensive portfolio of products, with an experience of delivering value-based rigs to over 100 institutions across 25 countries. It is spread over a land of 20,000 Sq. Mtrs. in Cherlapally, Hyderabad, India and has In-House manufacturing facility with CNC Machine Shop and System Controlled Sealed Quenching Heat - Treatment Plant.</p>
                                        <ul class="list-item clearfix">
-                                        <li> <img src="img/icons/land.png" alt=""> Manufacturing Covering 20,000 Sq. Mtrs</li>
-                                        <li><img src="img/icons/international-standards.png" alt="">  International Standard Rigs</li>
-                                        <li><img src="img/icons/qualified-engg.png" alt="">  Technically Qualified Engineers</li>
-                                        <li><img src="img/icons/water-well.png" alt="">  Customised Drilling</li>
+                                        <li> <picture><source srcset="img/icons/320w/land_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/icons/640w/land_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/icons/1024w/land_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/icons/1920w/land_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/icons/land.webp" alt=""></picture> Manufacturing Covering 20,000 Sq. Mtrs</li>
+                                        <li><picture><source srcset="img/icons/320w/international-standards_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/icons/640w/international-standards_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/icons/1024w/international-standards_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/icons/1920w/international-standards_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/icons/international-standards.webp" alt=""></picture>  International Standard Rigs</li>
+                                        <li><picture><source srcset="img/icons/320w/qualified-engg_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/icons/640w/qualified-engg_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/icons/1024w/qualified-engg_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/icons/1920w/qualified-engg_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/icons/qualified-engg.webp" alt=""></picture>  Technically Qualified Engineers</li>
+                                        <li><picture><source srcset="img/icons/320w/water-well_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/icons/640w/water-well_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/icons/1024w/water-well_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/icons/1920w/water-well_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/icons/water-well.webp" alt=""></picture>  Customised Drilling</li>
                                     </ul>
                                     </div>
                                 </div> 
@@ -205,7 +203,7 @@
                         <div class="service-block-two wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
                             <div class="inner-box">
                                 <div class="image-box">
-                                    <figure class="image"><img src="img/dth1000.jpg" alt=""></figure>
+                                    <figure class="image"><picture><source srcset="img/320w/dth1000_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/dth1000_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/dth1000_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/dth1000_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/dth1000.webp" alt=""></picture></figure>
                                     <!--<div class="icon-box"><i class="flaticon-machinery"></i></div>-->
                                     <h2>DTH 1000</h2>
                                     <h3><a href="#">KGR DTH 1000</a></h3>
@@ -223,7 +221,7 @@
                         <div class="service-block-two wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
                             <div class="inner-box">
                                 <div class="image-box">
-                                    <figure class="image"><img src="img/dth1500.jpg" alt=""></figure>
+                                    <figure class="image"><picture><source srcset="img/320w/dth1500_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/dth1500_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/dth1500_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/dth1500_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/dth1500.webp" alt=""></picture></figure>
                                     <!--<div class="icon-box"><i class="flaticon-laser"></i></div>-->
                                     <h2>DTH 1500</h2>
                                     <h3><a href="#">KGR DTH 1500</a></h3>
@@ -242,7 +240,7 @@
                         <div class="service-block-two wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 600ms; animation-name: fadeInUp;">
                             <div class="inner-box">
                                 <div class="image-box">
-                                    <figure class="image"><img src="img/dth2000.jpg" alt=""></figure>
+                                    <figure class="image"><picture><source srcset="img/320w/dth2000_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/dth2000_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/dth2000_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/dth2000_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/dth2000.webp" alt=""></picture></figure>
                                     <!--<div class="icon-box"><i class="flaticon-tube-bending"></i></div>-->
                                     <h2>DTH 2000</h2>
                                     <h3><a href="#">KGR DTH 2000</a></h3>
@@ -275,7 +273,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 funfact-block">
                         <div class="funfact-block-one">
                             <div class="inner-box">
-                                <div class="icon-box"><img src="img/icons/country.png" style="margin-bottom: 18px;" alt=""></div>
+                                <div class="icon-box"><picture><source srcset="img/icons/320w/country_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/icons/640w/country_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/icons/1024w/country_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/icons/1920w/country_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/icons/country.webp" style="margin-bottom: 18px;" alt=""></picture></div>
                                 <div class="count-outer count-box">
                                     <span class="count-text" data-speed="1500" data-stop="25">0</span><span>+</span>
                                 </div>
@@ -288,7 +286,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 funfact-block">
                         <div class="funfact-block-one">
                             <div class="inner-box">
-                                <div class="icon-box"><img src="img/icons/projects.png" style="margin-bottom: 18px;" alt=""></div>
+                                <div class="icon-box"><picture><source srcset="img/icons/320w/projects_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/icons/640w/projects_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/icons/1024w/projects_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/icons/1920w/projects_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/icons/projects.webp" style="margin-bottom: 18px;" alt=""></picture></div>
                                 <div class="count-outer count-box">
                                     <span class="count-text" data-speed="1500" data-stop="200">0</span><span>+</span>
                                 </div>
@@ -301,7 +299,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 funfact-block">
                         <div class="funfact-block-one">
                             <div class="inner-box">
-                                <div class="icon-box"><img src="img/icons/happy-client.png" style="margin-bottom: 18px;" alt=""></div>
+                                <div class="icon-box"><picture><source srcset="img/icons/320w/happy-client_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/icons/640w/happy-client_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/icons/1024w/happy-client_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/icons/1920w/happy-client_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/icons/happy-client.webp" style="margin-bottom: 18px;" alt=""></picture></div>
                                 <div class="count-outer count-box">
                                     <span class="count-text" data-speed="1500" data-stop="150">0</span>
                                 </div>
@@ -314,7 +312,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 funfact-block">
                         <div class="funfact-block-one">
                             <div class="inner-box">
-                                <div class="icon-box"><img src="img/icons/range.png" style="margin-bottom: 18px;" alt=""></div>
+                                <div class="icon-box"><picture><source srcset="img/icons/320w/range_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/icons/640w/range_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/icons/1024w/range_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/icons/1920w/range_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/icons/range.webp" style="margin-bottom: 18px;" alt=""></picture></div>
                                 <div class="count-outer count-box">
                                     <span class="count-text" data-speed="1500" data-stop="9">0</span>
                                 </div>
@@ -340,7 +338,7 @@
                             <h2>We’re here to help.</h2>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6">
-                        <a  data-bs-toggle="modal" data-bs-target="#enquire-modal"   class="theme-btn btn-two enquire-color" style="background-image: linear-gradient(to top, #035a42 0%, #24a7f1 100%);"><span>Enquire Now</span></a>
+                        <a data-bs-toggle="modal" data-bs-target="#enquire-modal" class="theme-btn btn-two enquire-color" style="background-image: linear-gradient(to top, #035a42 0%, #24a7f1 100%);"><span>Enquire Now</span></a>
                     </div>
                     </div>
                 </div> 
@@ -367,12 +365,12 @@
 <div class="tab-content" style="margin-top:50px;" id="pills-tabContent">
   <div class="tab-pane fade show active" id="domestic-pill" role="tabpanel" aria-labelledby="domestic-tab" tabindex="0">
       <div class="text-center">
-         <img src="img/india-map.gif" alt="">
+         <picture><source srcset="img/320w/india-map_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/india-map_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/india-map_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/india-map_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/india-map.webp" alt=""></picture>
       </div>
   </div>
   <div class="tab-pane fade" id="global-pill" role="tabpanel" aria-labelledby="global-tab" tabindex="0">
       <div class="text-center">
-            <img src="img/world-map.gif" alt="" >
+            <picture><source srcset="img/320w/world-map_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/world-map_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/world-map_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/world-map_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/world-map.webp" alt=""></picture>
          
       </div>
   </div>
@@ -394,14 +392,14 @@
                     <div class="col-lg-6 col-md-12 col-sm-12 content-column">
 
                                     <div class="content-inner">
-                                        <div class="image-layer" ></div>
+                                        <div class="image-layer"></div>
                                         <div class="content-box">
                                             <div class="sec-title mb-0">
                                 <span class="sub-title" style="color:#fff">Location Info</span>
                                  </div>
                                             <div class="upper-box">
                                                 <!-- <h6>Location</h6> -->
-                                                <p>225/P & 226/P, IDA PHASE-II, Cherlapally,<br> Hyderabad, Telangana 500051</p>
+                                                <p>225/P &amp; 226/P, IDA PHASE-II, Cherlapally,<br> Hyderabad, Telangana 500051</p>
                                             </div>
                                                <div class="sec-title mb-0">
                                 <span class="sub-title" style="color:#fff">Contact Info</span>
@@ -474,7 +472,8 @@
         </section>
        
 
-<?php include 'footer.php'; ?>
-<?php include 'bottomlinks.php'; ?>
-</body>
-</html>
+<!--?php include 'footer.php'; ?-->
+<!--?php include 'bottomlinks.php'; ?-->
+
+
+</body></html>

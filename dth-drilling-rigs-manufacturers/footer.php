@@ -1,12 +1,11 @@
-</div>
-<footer class="footer-style-three" style="background-image: url(img/footer-bg.webp);">
+<html><head></head><body><footer class="footer-style-three" style="background-image: url(img/footer-bg.webp);">
             <div class="auto-container">
                 <div class="widget-section">
                     <div class="row clearfix">
                         <div class="col-lg-4 col-md-12 col-sm-12 footer-column">
                             <div class="logo-widget footer-widget">
-                                <figure class="footer-logo"><a href="index.php"><img src="img/logo.png" alt=""></a></figure>
-                                <p>Since 1992, KGR is a renowned name in manufacturing dth hammers, t.c. button bits, and friction welded & induction hardened drill pipes under the leadership of Mr. K. Govinda Reddy</p>
+                                <figure class="footer-logo"><a href="index.php"><picture><source srcset="img/320w/logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/logo.webp" alt=""></picture></a></figure>
+                                <p>Since 1992, KGR is a renowned name in manufacturing dth hammers, t.c. button bits, and friction welded &amp; induction hardened drill pipes under the leadership of Mr. K. Govinda Reddy</p>
                             </div>
                                <div class="download-widget footer-widget">
                                 <div class="widget-content">
@@ -45,7 +44,7 @@
                             <div class="download-widget footer-widget">
                                 <div class="widget-content">
                                    
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.871157521709!2d78.59898747462871!3d17.465879800540243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9c509c9ba2f3%3A0xc512a631e6ac0661!2sKGR%20RIGS%20%26%20MINING%20EQUIPMENT!5e0!3m2!1sen!2sin!4v1724841089881!5m2!1sen!2sin" style="border:0;width: 100%;height: 300px;"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.871157521709!2d78.59898747462871!3d17.465879800540243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9c509c9ba2f3%3A0xc512a631e6ac0661!2sKGR%20RIGS%20%26%20MINING%20EQUIPMENT!5e0!3m2!1sen!2sin!4v1724841089881!5m2!1sen!2sin" style="border:0;width: 100%;height: 300px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                   
                                 </div>
                             </div>
@@ -56,10 +55,10 @@
                     <div class="bottom-inner">
                        
                           <div class="copyright">
-                                        <p>Copyrights © 2024 KGR Rigs. Powered by <img src="https://www.grank.co.in/assest/photos/g-rank-white-logo.png" style="width: 50px;height: auto;" loading="lazy" alt="grank-logo" class="logo-white"> | Digital Marketing Services</p>
+                                        <p>Copyrights © 2024 KGR Rigs. Powered by <picture><source srcset="https://www.grank.co.in/assest/photos/320w/g-rank-white-logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="https://www.grank.co.in/assest/photos/640w/g-rank-white-logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="https://www.grank.co.in/assest/photos/1024w/g-rank-white-logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="https://www.grank.co.in/assest/photos/1920w/g-rank-white-logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="https://www.grank.co.in/assest/photos/g-rank-white-logo.webp" style="width: 50px;height: auto;" loading="lazy" alt="grank-logo" class="logo-white"></picture> | Digital Marketing Services</p>
                                        
                                     </div>
-                        <button class="scroll-top-two scroll-to-target" data-target="html">Back to Top <img src="assets/images/icons/icon-9.png" alt=""></button>
+                        <button class="scroll-top-two scroll-to-target" data-target="html">Back to Top <picture><source srcset="assets/images/icons/320w/icon-9_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/images/icons/640w/icon-9_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/images/icons/1024w/icon-9_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/images/icons/1920w/icon-9_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/images/icons/icon-9.webp" alt="" width="18" height="18"></picture></button>
                     </div>
                 </div>
             </div>
@@ -733,4 +732,4 @@
     </div>
   </div>
 </div>
- <!--Technical specifications code end-->
+ <!--Technical specifications code end--></body></html>
