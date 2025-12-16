@@ -179,18 +179,25 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
+          # Ensure local optimized branch exists
           git fetch origin optimized || echo "Remote optimized branch does not exist yet"
           git checkout -B optimized
 
-          # Copy files from optimized/ to repo root
-          rsync -a --delete --quiet optimized/ ./
-          
-          # Now remove the empty optimized/ folder
+          # Copy contents of optimized/ to repo root without deleting original optimized folder yet
+          rsync -av optimized/ ./
+
+          # Stage changes
+          git add .
+
+          # Commit changes if there are any
+          git diff --cached --quiet || git commit -m "🚀 Optimized website assets"
+
+          # Push to remote optimized branch
+          git push -u origin optimized --force
+
+          # Only after push, clean up the temporary optimized/ folder
           rm -rf optimized
 
-          git add .
-          git commit -m "🚀 Optimized website assets" || echo "No changes to commit"
-          git push origin optimized --force
 
 
 
