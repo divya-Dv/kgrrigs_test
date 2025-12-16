@@ -49,8 +49,6 @@
     "performance",
     "lighthouse",
     "image-optimization"
-    // "css-purge",
-    // "minification"
   ],
   "author": "Emnar Pharma",
   "license": "MIT"
