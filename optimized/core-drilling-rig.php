@@ -11,7 +11,7 @@
 
 <!-- favicon icon -->
 <link rel="shortcut icon" href="images/kgr/faveicon.png">
-<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/animate.css" rel="stylesheet" type="text/css">
 <link href="css/fontawesome-all.css" rel="stylesheet" type="text/css">
 <link href="css/themify-icons.css" rel="stylesheet" type="text/css">

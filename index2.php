@@ -13,7 +13,7 @@
 <!-- inject css start -->
 
 <!--== bootstrap -->
-<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
 <!--== animate -->
 <link href="css/animate.css" rel="stylesheet" type="text/css">
