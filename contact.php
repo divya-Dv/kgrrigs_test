@@ -12,7 +12,7 @@
 <title>Contact | Kgr Rigs</title>
 
 <?php include_once("seo-tags.php"); ?>
-
+<!-- sample -->
 <!-- favicon icon -->
 <link rel="shortcut icon" href="images/kgr/faveicon.png" >
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" >
