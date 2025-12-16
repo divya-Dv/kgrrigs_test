@@ -11,6 +11,9 @@ jobs:
   optimize:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write # This grants the necessary permission to commit and push files.
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
