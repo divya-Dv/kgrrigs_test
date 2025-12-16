@@ -78,25 +78,25 @@ jobs:
       #       done
       #     fi
 
-      - name: Minify CSS
-        run: |
-          cd optimized
-          if [ -d css ]; then
-            find css -iname "*.css" | while read -r file; do
-              echo "Minifying CSS: $file"
-              cleancss --output "$file" "$file"
-            done
-          fi
+      # - name: Minify CSS
+      #   run: |
+      #     cd optimized
+      #     if [ -d css ]; then
+      #       find css -iname "*.css" | while read -r file; do
+      #         echo "Minifying CSS: $file"
+      #         cleancss --output "$file" "$file"
+      #       done
+      #     fi
 
-      - name: Minify JavaScript
-        run: |
-          cd optimized
-          if [ -d js ]; then
-            find js -iname "*.js" | while read -r file; do
-              echo "Minifying JS: $file"
-              terser "$file" --compress drop_console=true,drop_debugger=true --mangle --output "$file"
-            done
-          fi
+      # - name: Minify JavaScript
+      #   run: |
+      #     cd optimized
+      #     if [ -d js ]; then
+      #       find js -iname "*.js" | while read -r file; do
+      #         echo "Minifying JS: $file"
+      #         terser "$file" --compress drop_console=true,drop_debugger=true --mangle --output "$file"
+      #       done
+      #     fi
 
       - name: Generate Responsive Images
         run: node js/resize-images.js
@@ -104,8 +104,8 @@ jobs:
       - name: Convert Images to WebP
         run: node js/convert-webp.js
 
-      - name: Replace <img> with <picture>
-        run: node js/replace-img-with-picture.js
+      # - name: Replace <img> with <picture>
+      #   run: node js/replace-img-with-picture.js
 
       - name: Add Lazy Loading to Images
         run: |
