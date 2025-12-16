@@ -16,20 +16,12 @@ jobs:
         with:
           node-version: 18
 
+      - name: Install project dependencies
+        run: npm ci
+
       - name: Install Lighthouse CI
-        run: |
-          # Install Lighthouse CI globally
-          npm install -g @lhci/cli@0.12.x
-          
-          # Create package-lock.json if it doesn't exist
-          if [ -f package.json ] && [ ! -f package-lock.json ]; then
-            npm install --package-lock-only
-          fi
-          
-          # Install local dependencies if package.json exists
-          if [ -f package.json ]; then
-            npm ci --prefer-offline --no-audit
-          fi
+        run: npm install -g @lhci/cli@0.12.x
+
 
       - name: Create Lighthouse CI config
         run: |
@@ -85,6 +77,9 @@ jobs:
             }
           }
           EOF
+      
+      - name: Optimize images
+        run: node js/resize-images.js
 
       - name: Start PHP server
         run: |
