@@ -179,7 +179,10 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          git checkout optimized || git checkout -b optimized
+          git fetch origin optimized || true
+          git checkout -B optimized
+
+          test -d optimized || { echo "optimized directory missing"; exit 1; }
 
           rsync -av --delete optimized/ ./
           rm -rf optimized
