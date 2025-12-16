@@ -179,18 +179,19 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          git fetch origin optimized || true
+          git fetch origin optimized || echo "Remote optimized branch does not exist yet"
           git checkout -B optimized
 
-          test -d optimized || { echo "optimized directory missing"; exit 1; }
-
-          rsync -av --delete optimized/ ./
+          # Copy files from optimized/ to repo root
+          rsync -a --delete --quiet optimized/ ./
+          
+          # Now remove the empty optimized/ folder
           rm -rf optimized
 
           git add .
           git commit -m "🚀 Optimized website assets" || echo "No changes to commit"
-
           git push origin optimized --force
+
 
 
       - name: Upload optimization report
