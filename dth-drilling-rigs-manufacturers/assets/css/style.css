@@ -13,7 +13,7 @@ body {
   color: #827e7d;
   line-height: 27px;
   font-weight: 400;
-  background: #fff;
+  #fff
   font-family: "Moderustic", sans-serif;
   background-size: cover;
   background-repeat: no-repeat;
@@ -70,7 +70,7 @@ textarea {
   font-family: "Moderustic", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  background: #fff0;
+  #fff0
 }
 ::-webkit-input-placeholder {
   color: inherit;
@@ -128,7 +128,7 @@ h6 {
   justify-content: center;
   -webkit-justify-content: center;
   position: fixed;
-  background: #0a0807;
+  #0a0807
   left: 0;
   top: 0;
   width: 100%;
@@ -138,7 +138,7 @@ h6 {
   position: fixed;
   z-index: 99999999;
   font-size: 26px;
-  background: #fff;
+  #fff
   width: 40px;
   height: 40px;
   line-height: 36px;
@@ -318,7 +318,7 @@ img {
   transition: all 500ms ease;
 }
 .theme-btn.btn-one {
-  background: #fff;
+  #fff
   color: #262625;
 }
 .theme-btn.btn-one:hover {
@@ -344,19 +344,19 @@ img {
 }
 .theme-btn.btn-one span:before {
   color: #fff;
-  background: #1c1712;
+  #1c1712
 }
 .theme-btn.btn-one:hover span:before {
-  background: #fff;
+  #fff
 }
 .theme-btn.btn-two {
   color: #fff;
 }
 .theme-btn.btn-two span:before {
-  background: #fff;
+  #fff
 }
 .theme-btn.btn-two:hover {
-  background: #1c1c1c;
+  #1c1c1c
 }
 .row {
   --bs-gutter-x: 30px;
@@ -535,7 +535,7 @@ img {
   visibility: hidden;
   opacity: 0;
   overflow: auto;
-  background: rgb(0 0 0 / 0.8);
+  rgb(0 0 0 / 0.8)
   -webkit-transform: translateY(101%);
   -ms-transform: translateY(101%);
   transform: translateY(101%);
@@ -554,7 +554,7 @@ img {
 }
 .search-popup .popup-inner {
   width: 100%;
-  background: #fff;
+  #fff
   height: 100%;
 }
 .search-popup .upper-box {
@@ -595,7 +595,7 @@ img {
   position: relative;
   height: 90px;
   padding: 20px 0;
-  background: #fff;
+  #fff
   line-height: 30px;
   font-size: 20px;
   color: gray;
@@ -657,7 +657,7 @@ img {
 .header-top .social-links li:before {
   position: absolute;
   content: "";
-  background: #a9a6a5;
+  #a9a6a5
   width: 4px;
   height: 4px;
   top: 12px;
@@ -714,7 +714,7 @@ img {
 .main-header .menu-left-content .logo-box:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 66px;
   right: -54px;
@@ -777,7 +777,7 @@ img {
 .main-header .menu-right-content .option-list:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 66px;
   right: -54px;
@@ -894,7 +894,7 @@ img {
   width: 240px;
   margin-top: 20px;
   z-index: 100;
-  background: #fff;
+  #fff
   display: none;
   opacity: 0;
   padding: 10px 0;
@@ -915,10 +915,10 @@ img {
   height: 10px;
   left: 0;
   top: -10px;
-  background: #fff0;
+  #fff0
 }
 .main-menu .navigation > li > .megamenu {
-  background: #212226;
+  #212226
 }
 .main-menu .navigation > li > .megamenu a {
   display: inline-block !important;
@@ -999,7 +999,7 @@ img {
   border-radius: 0;
   padding: 10px 0;
   box-shadow: 0 0 10px 0 rgb(0 0 0 / 0.05);
-  background: #fff;
+  #fff
   transition: all 500ms ease;
   -moz-transition: all 500ms ease;
   -webkit-transition: all 500ms ease;
@@ -1186,7 +1186,7 @@ img {
   height: 100%;
   max-height: 100%;
   overflow-y: auto;
-  background: #0a0807;
+  #0a0807
   padding: 0 0;
   z-index: 5;
   opacity: 0;
@@ -1297,7 +1297,7 @@ img {
   font-size: 16px;
   line-height: 32px;
   color: #fff;
-  background: rgb(255 255 255 / 0.1);
+  rgb(255 255 255 / 0.1)
   cursor: pointer;
   border-radius: 2px;
   -webkit-transition: all 500ms ease;
@@ -1370,7 +1370,7 @@ div#mCSB_1_container {
 }
 .nice-select {
   position: relative;
-  background: #fff0;
+  #fff0
   border: none;
   font-size: 15px;
   font-weight: 400;
@@ -1414,7 +1414,7 @@ div#mCSB_1_container {
   content: "";
   width: 100%;
   height: 100%;
-  background: #000;
+  #000
   top: 0;
   right: 0;
   opacity: 0.3;
@@ -1561,10 +1561,10 @@ div#mCSB_1_container {
   transform: translateY(0);
 }
 .banner-carousel .content-box .theme-btn span:before {
-  background: #818387;
+  #818387
 }
 .banner-carousel .content-box .theme-btn:hover span:before {
-  background: #fff;
+  #fff
 }
 .owl-carousel .owl-nav span {
   font-family: "flaticon";
@@ -1621,7 +1621,7 @@ div#mCSB_1_container {
   top: 58px;
   width: 1px;
   height: 18px;
-  background: #fff;
+  #fff
   opacity: 0.5;
 }
 .banner-carousel .owl-dots button span {
@@ -1660,7 +1660,7 @@ div#mCSB_1_container {
 .banner-section .text-box h3:before {
   position: absolute;
   content: "";
-  background: #fff;
+  #fff
   width: 100%;
   height: 1px;
   left: 0;
@@ -1685,7 +1685,7 @@ div#mCSB_1_container {
   top: 0;
   width: 1px;
   height: 100%;
-  background: #fff;
+  #fff
   opacity: 0.15;
   z-index: 2;
 }
@@ -1705,7 +1705,7 @@ div#mCSB_1_container {
 .about-section:before {
   position: absolute;
   content: "";
-  background: #f3f1f1;
+  #f3f1f1
   width: 50%;
   height: 100%;
   left: 0;
@@ -1897,7 +1897,7 @@ div#mCSB_1_container {
   margin-bottom: 5px;
 }
 .bg-color-1 {
-  background: #f3f1f1;
+  #f3f1f1
 }
 .service-section {
   position: relative;
@@ -2031,7 +2031,7 @@ div#mCSB_1_container {
   top: 0;
   width: 1px;
   height: 100%;
-  background: #d6d6d6;
+  #d6d6d6
 }
 .service-section .line-box .line-1 {
   left: 0;
@@ -2171,7 +2171,7 @@ div#mCSB_1_container {
 .chooseus-section .content-box .static-content:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 100%;
   top: 0;
@@ -2183,7 +2183,7 @@ div#mCSB_1_container {
   width: 56px;
   height: 56px;
   line-height: 56px;
-  background: #f3f1f1;
+  #f3f1f1
   text-align: center;
   border-radius: 50%;
   font-size: 20px;
@@ -2223,7 +2223,7 @@ div#mCSB_1_container {
   display: flex;
   align-items: center;
   padding: 30px 0 30px 40px;
-  background: #1c1c1c;
+  #1c1c1c
   z-index: 1;
   opacity: 0;
   transition: all 500ms ease;
@@ -2235,7 +2235,7 @@ div#mCSB_1_container {
 .chooseus-section .content-box .overlay-content:before {
   position: absolute;
   content: "";
-  background: #4f4d4f;
+  #4f4d4f
   width: 1px;
   height: 100%;
   top: 0;
@@ -2308,12 +2308,12 @@ div#mCSB_1_container {
 .industry-tab .industry-tab-btns {
   position: relative;
   width: 100%;
-  background: #f3f1f1;
+  #f3f1f1
 }
 .industry-tab .industry-tab-btns:before {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   width: 100%;
   height: 1px;
   left: 0;
@@ -2461,7 +2461,13 @@ div#mCSB_1_container {
 .industry-section .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-1.png);
+  
+background-image: url(../images/icons/icon-1.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -2478,7 +2484,13 @@ div#mCSB_1_container {
 .industry-section .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-2.png);
+  
+background-image: url(../images/icons/icon-2.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -2519,7 +2531,7 @@ div#mCSB_1_container {
 .video-section .bg-layer:before {
   position: absolute;
   content: "";
-  background: #000;
+  #000
   width: 100%;
   height: 100%;
   left: 0;
@@ -2603,7 +2615,7 @@ div#mCSB_1_container {
   position: relative;
   display: block;
   margin: 80px 65px 80px 0;
-  background: #fff;
+  #fff
   padding: 44px 50px 50px 50px;
   overflow: hidden;
 }
@@ -2630,7 +2642,7 @@ div#mCSB_1_container {
 .working-section .content-box h3:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 50px);
   height: 1px;
   left: 0;
@@ -2690,7 +2702,7 @@ div#mCSB_1_container {
   transition: all 500ms ease;
 }
 .working-section .tab-btns li.active-btn {
-  background: #1c1c1c;
+  #1c1c1c
 }
 .working-section .tab-btns li span {
   position: absolute;
@@ -2789,7 +2801,7 @@ div#mCSB_1_container {
   width: 100px;
   height: 100px;
   line-height: 110px;
-  background: #fff;
+  #fff
   text-align: center;
   font-size: 32px;
   color: #292729;
@@ -2818,7 +2830,7 @@ div#mCSB_1_container {
 .case-block-one .inner-box:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 100%;
   top: 0;
@@ -2847,7 +2859,13 @@ div#mCSB_1_container {
 .case-section .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-1.png);
+  
+background-image: url(../images/icons/icon-1.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -2864,7 +2882,13 @@ div#mCSB_1_container {
 .case-section .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-2.png);
+  
+background-image: url(../images/icons/icon-2.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -2916,7 +2940,7 @@ div#mCSB_1_container {
   top: 58px;
   width: 1px;
   height: 18px;
-  background: #e2e2e2;
+  #e2e2e2
 }
 .case-section .owl-dots button span {
   display: none !important;
@@ -2982,7 +3006,7 @@ div#mCSB_1_container {
   top: 65px;
   width: 100px;
   height: 100px;
-  background: #f3f1f1;
+  #f3f1f1
   border: 1px solid #d8d7d7;
   border-radius: 50%;
   padding: 9px;
@@ -2999,7 +3023,7 @@ div#mCSB_1_container {
 .testimonial-section .testimonial-content .inner-box:before {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   width: 1px;
   height: calc(100% + 31px);
   left: 0;
@@ -3030,7 +3054,7 @@ div#mCSB_1_container {
 .testimonial-section .testimonial-content .inner-box p:before {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   width: calc(100% + 55px);
   height: 1px;
   right: 0;
@@ -3065,7 +3089,13 @@ div#mCSB_1_container {
 .testimonial-section .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-1.png);
+  
+background-image: url(../images/icons/icon-1.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -3082,7 +3112,13 @@ div#mCSB_1_container {
 .testimonial-section .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-2.png);
+  
+background-image: url(../images/icons/icon-2.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -3125,7 +3161,7 @@ div#mCSB_1_container {
   position: relative;
   display: block;
   overflow: hidden;
-  background: #000;
+  #000
 }
 .news-block-one .inner-box .image-box .image img {
   width: 100%;
@@ -3183,7 +3219,7 @@ div#mCSB_1_container {
 .news-block-one .inner-box .lower-content .post-info:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 20px);
   height: 1px;
   left: 0;
@@ -3217,7 +3253,7 @@ div#mCSB_1_container {
 .news-block-one .inner-box .lower-content .post-info li:before {
   position: absolute;
   content: "";
-  background: #d9d8d6;
+  #d9d8d6
   width: 1px;
   height: 14px;
   top: 8px;
@@ -3322,7 +3358,7 @@ div#mCSB_1_container {
 }
 .main-footer {
   position: relative;
-  background: #1c1c1c;
+  #1c1c1c
 }
 .main-footer .footer-top {
   position: relative;
@@ -3363,7 +3399,7 @@ div#mCSB_1_container {
   width: 56px;
   height: 56px;
   line-height: 66px;
-  background: #fff;
+  #fff
   text-align: center;
   font-size: 24px;
   border-radius: 50%;
@@ -3409,7 +3445,7 @@ div#mCSB_1_container {
 .main-footer .contact-widget .select-box .flag:after {
   position: absolute;
   content: "";
-  background: #4f4d4f;
+  #4f4d4f
   width: 1px;
   height: 22px;
   top: 4px;
@@ -3459,7 +3495,7 @@ div#mCSB_1_container {
 .main-footer .contact-widget:before {
   position: absolute;
   content: "";
-  background: #373737;
+  #373737
   width: 1px;
   height: calc(100% + 50px);
   top: -57px;
@@ -3548,7 +3584,7 @@ div#mCSB_1_container {
 .footer-bottom {
   position: relative;
   width: 100%;
-  background: #141414;
+  #141414
   padding: 24px 0;
 }
 .footer-bottom .bottom-inner {
@@ -3583,7 +3619,7 @@ div#mCSB_1_container {
 .header-upper {
   position: relative;
   width: 100%;
-  background: #f3f1f1;
+  #f3f1f1
   border-bottom: 1px solid #d6d6d6;
   padding: 20px 0;
 }
@@ -3646,7 +3682,7 @@ div#mCSB_1_container {
 .header-upper .right-column .info-box:before {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   width: 1px;
   height: 102px;
   left: -40px;
@@ -3713,12 +3749,18 @@ div#mCSB_1_container {
 .header-style-two .header-lower .outer-box {
   position: relative;
   padding: 0;
-  background: #fff;
+  #fff
 }
 .header-style-two .header-lower .outer-box:before {
   position: absolute;
   content: "";
-  background-image: url(../images/shape/shape-5.png);
+  
+background-image: url(../images/shape/shape-5.png);
+background-image: -webkit-image-set(url("../images/shape/320w/shape-5_320w.webp") 320w, url("../images/shape/640w/shape-5_640w.webp") 640w, url("../images/shape/1024w/shape-5_1024w.webp") 1024w, url("../images/shape/1920w/shape-5_1920w.webp") 1920w); 
+background-image: image-set(url("../images/shape/320w/shape-5_320w.webp") 320w, url("../images/shape/640w/shape-5_640w.webp") 640w, url("../images/shape/1024w/shape-5_1024w.webp") 1024w, url("../images/shape/1920w/shape-5_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/shape/320w/shape-5_320w.png") 320w, url("../images/shape/640w/shape-5_640w.png") 640w, url("../images/shape/1024w/shape-5_1024w.png") 1024w, url("../images/shape/1920w/shape-5_1920w.png") 1920w);
+background-image: image-set(url("../images/shape/320w/shape-5_320w.png") 320w, url("../images/shape/640w/shape-5_640w.png") 640w, url("../images/shape/1024w/shape-5_1024w.png") 1024w, url("../images/shape/1920w/shape-5_1920w.png") 1920w);
+
   width: 101px;
   height: 68px;
   left: -101px;
@@ -3729,7 +3771,13 @@ div#mCSB_1_container {
 .header-style-two .header-lower .outer-box:after {
   position: absolute;
   content: "";
-  background-image: url(../images/shape/shape-6.png);
+  
+background-image: url(../images/shape/shape-6.png);
+background-image: -webkit-image-set(url("../images/shape/320w/shape-6_320w.webp") 320w, url("../images/shape/640w/shape-6_640w.webp") 640w, url("../images/shape/1024w/shape-6_1024w.webp") 1024w, url("../images/shape/1920w/shape-6_1920w.webp") 1920w); 
+background-image: image-set(url("../images/shape/320w/shape-6_320w.webp") 320w, url("../images/shape/640w/shape-6_640w.webp") 640w, url("../images/shape/1024w/shape-6_1024w.webp") 1024w, url("../images/shape/1920w/shape-6_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/shape/320w/shape-6_320w.png") 320w, url("../images/shape/640w/shape-6_640w.png") 640w, url("../images/shape/1024w/shape-6_1024w.png") 1024w, url("../images/shape/1920w/shape-6_1920w.png") 1920w);
+background-image: image-set(url("../images/shape/320w/shape-6_320w.png") 320w, url("../images/shape/640w/shape-6_640w.png") 640w, url("../images/shape/1024w/shape-6_1024w.png") 1024w, url("../images/shape/1920w/shape-6_1920w.png") 1920w);
+
   width: 100px;
   height: 68px;
   right: -100px;
@@ -3760,14 +3808,14 @@ div#mCSB_1_container {
 .header-style-two .header-lower .menu-right-content .btn-box:before {
   position: absolute;
   content: "";
-  background: #1c1c1c;
+  #1c1c1c
   width: 5000px;
   height: 5px;
   left: 0;
   top: -5px;
 }
 .header-style-two .menu-right-content .btn-box .theme-btn {
-  background: #1c1c1c;
+  #1c1c1c
   color: #fff;
   padding-top: 22px;
   padding-bottom: 22px;
@@ -3794,7 +3842,7 @@ div#mCSB_1_container {
 .header-style-two .header-lower .menu-right-content .search-box-outer:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   left: 0;
   bottom: 0;
   width: 1px;
@@ -3803,7 +3851,7 @@ div#mCSB_1_container {
 .header-style-two .header-lower .menu-right-content .search-box-outer:after {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   right: 0;
   bottom: 0;
   width: 1px;
@@ -3830,7 +3878,7 @@ div#mCSB_1_container {
 .banner-style-two .bg-layer:before {
   position: absolute;
   content: "";
-  background: #000;
+  #000
   width: 100%;
   height: 100%;
   left: 0;
@@ -3894,7 +3942,7 @@ div#mCSB_1_container {
   position: relative;
   display: inline-block;
   margin: 0 10px;
-  background: #fff0;
+  #fff0
   width: 40px;
   height: 10px;
   border: 1px solid #fff;
@@ -3927,7 +3975,7 @@ div#mCSB_1_container {
   content: "";
   width: 100%;
   height: 100%;
-  background: -webkit-linear-gradient(90deg, rgb(0 0 0 / 0.6) 0%, #fff0 50%);
+  -webkit-linear-gradient(90deg, rgb(0 0 0 / 0.6) 0%, #fff0 50%)
   bottom: 0;
   right: 0;
   z-index: 1;
@@ -4018,7 +4066,7 @@ div#mCSB_1_container {
   margin-bottom: 28px;
 }
 .nav-pills .nav-link {
-  background: #e4e0e0;
+  #e4e0e0
   margin: 0 5px;
   color: #000;
 }
@@ -4146,7 +4194,7 @@ ul#pills-tab {
 .video-style-two .content-box h2:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 185px;
   height: 1px;
   left: -115px;
@@ -4207,7 +4255,7 @@ ul#pills-tab {
 .chooseus-block-one .inner-box h3:after {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   left: 0;
   width: calc(100% + 40px);
   height: 1px;
@@ -4293,7 +4341,7 @@ ul#pills-tab {
   font-size: 60px;
   line-height: 60px;
   font-weight: 700;
-  background: #fff;
+  #fff
   padding: 20px 30px;
   right: 0;
   top: 104px;
@@ -4321,7 +4369,7 @@ ul#pills-tab {
 .about-style-two .content-column:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 100%;
   left: 0;
@@ -4372,7 +4420,7 @@ ul#pills-tab {
   height: 100px;
   border: 1px solid #d8d8d8;
   border-radius: 50%;
-  background: #fff;
+  #fff
 }
 .about-style-two .slider-content .owl-nav button {
   position: absolute;
@@ -4392,7 +4440,7 @@ ul#pills-tab {
 }
 .industry-style-two {
   position: relative;
-  background: #1c1c1c;
+  #1c1c1c
 }
 .industry-style-two .image-box {
   position: relative;
@@ -4410,11 +4458,11 @@ ul#pills-tab {
 .industry-style-two .single-item .static-content {
   position: relative;
   display: block;
-  background: #f3f1f1;
+  #f3f1f1
   padding: 32px 30px 36px 40px;
 }
 .industry-style-two .single-item:nth-child(2n + 1) .static-content {
-  background: #fff;
+  #fff
 }
 .industry-style-two .single-item .static-content h3 {
   position: relative;
@@ -4454,7 +4502,7 @@ ul#pills-tab {
   left: 0;
   bottom: -15px;
   width: 100%;
-  background: #1c1c1c;
+  #1c1c1c
   padding: 32px 30px 8px 40px;
   opacity: 0;
   visibility: hidden;
@@ -4549,7 +4597,7 @@ ul#pills-tab {
   content: "";
   width: 100%;
   height: 100%;
-  background: -webkit-linear-gradient(90deg, rgb(0 0 0 / 0.6) 0%, #fff0 50%);
+  -webkit-linear-gradient(90deg, rgb(0 0 0 / 0.6) 0%, #fff0 50%)
   bottom: 0;
   right: 0;
   z-index: 1;
@@ -4557,7 +4605,7 @@ ul#pills-tab {
 .team-block-one .inner-box .image-box .image:after {
   position: absolute;
   content: "";
-  background: #fff;
+  #fff
   width: 100%;
   height: 5px;
   left: 0;
@@ -4613,7 +4661,7 @@ ul#pills-tab {
 .team-block-one .inner-box .image-box .social-links li:before {
   position: absolute;
   content: "";
-  background: #b8aba1;
+  #b8aba1
   width: 4px;
   height: 4px;
   top: 13px;
@@ -4696,7 +4744,7 @@ ul#pills-tab {
   bottom: 0;
   width: 630px;
   z-index: 1;
-  background: #1c1c1c;
+  #1c1c1c
   padding: 40px 290px 42px 30px;
 }
 .case-block-two .inner-box .content-box .btn-box {
@@ -4705,7 +4753,7 @@ ul#pills-tab {
   right: 0;
   width: 260px;
   text-align: center;
-  background: #f3f1f1;
+  #f3f1f1
   padding: 62px 15px 61px 15px;
 }
 .case-block-two .inner-box .content-box .btn-box a {
@@ -4785,7 +4833,7 @@ ul#pills-tab {
 .case-style-two .owl-nav:before {
   position: absolute;
   content: "";
-  background: #1c1c1c;
+  #1c1c1c
   width: 260px;
   height: 100%;
   top: 0;
@@ -4813,7 +4861,13 @@ ul#pills-tab {
 .case-style-two .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-4.png);
+  
+background-image: url(../images/icons/icon-4.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-4_320w.webp") 320w, url("../images/icons/640w/icon-4_640w.webp") 640w, url("../images/icons/1024w/icon-4_1024w.webp") 1024w, url("../images/icons/1920w/icon-4_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-4_320w.webp") 320w, url("../images/icons/640w/icon-4_640w.webp") 640w, url("../images/icons/1024w/icon-4_1024w.webp") 1024w, url("../images/icons/1920w/icon-4_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-4_320w.png") 320w, url("../images/icons/640w/icon-4_640w.png") 640w, url("../images/icons/1024w/icon-4_1024w.png") 1024w, url("../images/icons/1920w/icon-4_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-4_320w.png") 320w, url("../images/icons/640w/icon-4_640w.png") 640w, url("../images/icons/1024w/icon-4_1024w.png") 1024w, url("../images/icons/1920w/icon-4_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -4822,7 +4876,13 @@ ul#pills-tab {
 .case-style-two .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-5.png);
+  
+background-image: url(../images/icons/icon-5.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-5_320w.webp") 320w, url("../images/icons/640w/icon-5_640w.webp") 640w, url("../images/icons/1024w/icon-5_1024w.webp") 1024w, url("../images/icons/1920w/icon-5_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-5_320w.webp") 320w, url("../images/icons/640w/icon-5_640w.webp") 640w, url("../images/icons/1024w/icon-5_1024w.webp") 1024w, url("../images/icons/1920w/icon-5_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-5_320w.png") 320w, url("../images/icons/640w/icon-5_640w.png") 640w, url("../images/icons/1024w/icon-5_1024w.png") 1024w, url("../images/icons/1920w/icon-5_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-5_320w.png") 320w, url("../images/icons/640w/icon-5_640w.png") 640w, url("../images/icons/1024w/icon-5_1024w.png") 1024w, url("../images/icons/1920w/icon-5_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -4858,7 +4918,7 @@ ul#pills-tab {
   top: 55px;
   width: 1px;
   height: 18px;
-  background: #4f4d4f;
+  #4f4d4f
 }
 .case-style-two .owl-dots button span {
   display: none !important;
@@ -4896,7 +4956,7 @@ ul#pills-tab {
   position: relative;
   display: block;
   padding: 22px 30px 22px 40px;
-  background: #f3f1f1;
+  #f3f1f1
   border-bottom: 1px solid #e2e2e2;
   transition: all 500ms ease;
 }
@@ -4936,13 +4996,19 @@ ul#pills-tab {
   position: absolute;
   top: 0;
   right: 0;
-  background: #fff;
+  #fff
   padding: 12px 20px 2px 0;
 }
 .pricing-block-one .pricing-table .price-box:before {
   position: absolute;
   content: "";
-  background-image: url(../images/shape/shape-7.png);
+  
+background-image: url(../images/shape/shape-7.png);
+background-image: -webkit-image-set(url("../images/shape/320w/shape-7_320w.webp") 320w, url("../images/shape/640w/shape-7_640w.webp") 640w, url("../images/shape/1024w/shape-7_1024w.webp") 1024w, url("../images/shape/1920w/shape-7_1920w.webp") 1920w); 
+background-image: image-set(url("../images/shape/320w/shape-7_320w.webp") 320w, url("../images/shape/640w/shape-7_640w.webp") 640w, url("../images/shape/1024w/shape-7_1024w.webp") 1024w, url("../images/shape/1920w/shape-7_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/shape/320w/shape-7_320w.png") 320w, url("../images/shape/640w/shape-7_640w.png") 640w, url("../images/shape/1024w/shape-7_1024w.png") 1024w, url("../images/shape/1920w/shape-7_1920w.png") 1920w);
+background-image: image-set(url("../images/shape/320w/shape-7_320w.png") 320w, url("../images/shape/640w/shape-7_640w.png") 640w, url("../images/shape/1024w/shape-7_1024w.png") 1024w, url("../images/shape/1920w/shape-7_1920w.png") 1920w);
+
   width: 95px;
   height: 67px;
   left: -95px;
@@ -4996,7 +5062,7 @@ ul#pills-tab {
 }
 .pricing-block-one .pricing-table .feature-list li.light:before {
   content: "\f00d";
-  background: #a9a6a5;
+  #a9a6a5
 }
 .pricing-block-one .pricing-table .table-footer {
   position: relative;
@@ -5011,7 +5077,7 @@ ul#pills-tab {
   color: #fff;
   font-weight: 700;
   text-transform: uppercase;
-  background: #1c1c1c;
+  #1c1c1c
   padding: 19px 30px;
 }
 .pricing-block-one .pricing-table .table-footer a span {
@@ -5031,7 +5097,7 @@ ul#pills-tab {
   border-radius: 50%;
   top: -1px;
   right: 0;
-  background: #fff;
+  #fff
   color: #1c1c1c;
   transition: all 500ms ease;
 }
@@ -5063,7 +5129,7 @@ ul#pills-tab {
   color: #fff;
 }
 .testimonial-style-two .sub-title:before {
-  background: #fff;
+  #fff
 }
 .testimonial-style-two .sec-title .theme-btn {
   position: absolute;
@@ -5071,7 +5137,13 @@ ul#pills-tab {
   bottom: 10px;
 }
 .testimonial-style-two .sec-title .theme-btn span:before {
-  background: url(../images/icons/icon-bg-1.png);
+  
+background: url(../images/icons/icon-bg-1.png);
+background: -webkit-image-set(url("../images/icons/320w/icon-bg-1_320w.webp") 320w, url("../images/icons/640w/icon-bg-1_640w.webp") 640w, url("../images/icons/1024w/icon-bg-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-bg-1_1920w.webp") 1920w); 
+background: image-set(url("../images/icons/320w/icon-bg-1_320w.webp") 320w, url("../images/icons/640w/icon-bg-1_640w.webp") 640w, url("../images/icons/1024w/icon-bg-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-bg-1_1920w.webp") 1920w);
+background: -webkit-image-set(url("../images/icons/320w/icon-bg-1_320w.png") 320w, url("../images/icons/640w/icon-bg-1_640w.png") 640w, url("../images/icons/1024w/icon-bg-1_1024w.png") 1024w, url("../images/icons/1920w/icon-bg-1_1920w.png") 1920w);
+background: image-set(url("../images/icons/320w/icon-bg-1_320w.png") 320w, url("../images/icons/640w/icon-bg-1_640w.png") 640w, url("../images/icons/1024w/icon-bg-1_1024w.png") 1024w, url("../images/icons/1920w/icon-bg-1_1920w.png") 1920w);
+
 }
 .testimonial-style-two .testimonial-content {
   position: relative;
@@ -5160,7 +5232,13 @@ ul#pills-tab {
 .testimonial-style-two .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-6.png);
+  
+background-image: url(../images/icons/icon-6.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-6_320w.webp") 320w, url("../images/icons/640w/icon-6_640w.webp") 640w, url("../images/icons/1024w/icon-6_1024w.webp") 1024w, url("../images/icons/1920w/icon-6_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-6_320w.webp") 320w, url("../images/icons/640w/icon-6_640w.webp") 640w, url("../images/icons/1024w/icon-6_1024w.webp") 1024w, url("../images/icons/1920w/icon-6_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-6_320w.png") 320w, url("../images/icons/640w/icon-6_640w.png") 640w, url("../images/icons/1024w/icon-6_1024w.png") 1024w, url("../images/icons/1920w/icon-6_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-6_320w.png") 320w, url("../images/icons/640w/icon-6_640w.png") 640w, url("../images/icons/1024w/icon-6_1024w.png") 1024w, url("../images/icons/1920w/icon-6_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -5169,7 +5247,13 @@ ul#pills-tab {
 .testimonial-style-two .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-7.png);
+  
+background-image: url(../images/icons/icon-7.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-7_320w.webp") 320w, url("../images/icons/640w/icon-7_640w.webp") 640w, url("../images/icons/1024w/icon-7_1024w.webp") 1024w, url("../images/icons/1920w/icon-7_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-7_320w.webp") 320w, url("../images/icons/640w/icon-7_640w.webp") 640w, url("../images/icons/1024w/icon-7_1024w.webp") 1024w, url("../images/icons/1920w/icon-7_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-7_320w.png") 320w, url("../images/icons/640w/icon-7_640w.png") 640w, url("../images/icons/1024w/icon-7_1024w.png") 1024w, url("../images/icons/1920w/icon-7_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-7_320w.png") 320w, url("../images/icons/640w/icon-7_640w.png") 640w, url("../images/icons/1024w/icon-7_1024w.png") 1024w, url("../images/icons/1920w/icon-7_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -5199,7 +5283,7 @@ ul#pills-tab {
   top: 14px;
   width: 100px;
   height: 1px;
-  background: #d6d6d6;
+  #d6d6d6
 }
 .testimonial-style-two .owl-dots button span {
   display: none !important;
@@ -5312,7 +5396,7 @@ ul#pills-tab {
 .contact-section .tab-btns li:after {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   width: 1px;
   height: 36px;
   top: 21px;
@@ -5360,7 +5444,7 @@ ul#pills-tab {
   position: relative;
   display: block;
   width: 100%;
-  background: #1c1c1c;
+  #1c1c1c
   padding: 55px 60px 60px 60px;
 }
 .contact-section .content-box h6 {
@@ -5438,7 +5522,7 @@ ul#pills-tab {
   width: 66px;
   height: 66px;
   line-height: 74px;
-  background: #f3f1f1;
+  #f3f1f1
   font-size: 34px;
   text-align: center;
   border-radius: 50%;
@@ -5474,7 +5558,7 @@ ul#pills-tab {
 }
 .footer-style-two {
   position: relative;
-  background: #1c1c1c;
+  #1c1c1c
 }
 .footer-style-two .logo-widget {
   position: relative;
@@ -5547,7 +5631,7 @@ ul#pills-tab {
 .footer-style-two .social-links li:before {
   position: absolute;
   content: "";
-  background: #343434;
+  #343434
   width: 4px;
   height: 4px;
   top: 11px;
@@ -5580,7 +5664,7 @@ ul#pills-tab {
   padding: 117px 0 114px 0;
 }
 .footer-style-two .footer-bottom {
-  background: #fff0;
+  #fff0
   border-top: 1px solid #373737;
 }
 .footer-style-two .appointment-widget {
@@ -5601,7 +5685,7 @@ ul#pills-tab {
 .footer-style-two .appointment-widget .bg-layer:before {
   position: absolute;
   content: "";
-  background: #1c1c1c;
+  #1c1c1c
   width: 100%;
   height: 100%;
   left: 0;
@@ -5741,7 +5825,7 @@ ul#pills-tab {
 .header-top-two .social-links li:before {
   position: absolute;
   content: "";
-  background: #5a71fe;
+  #5a71fe
   width: 4px;
   height: 4px;
   top: 12px;
@@ -5777,7 +5861,7 @@ ul#pills-tab {
 .header-style-three .menu-right-content .search-box-outer:before {
   position: absolute;
   content: "";
-  background: #d7d7da;
+  #d7d7da
   width: 1px;
   height: 30px;
   top: 0;
@@ -5801,7 +5885,7 @@ ul#pills-tab {
 .header-style-three .header-lower .menu-right-content .support-box:before {
   position: absolute;
   content: "";
-  background: #d7d7da;
+  #d7d7da
   left: -37px;
   top: -13px;
   width: 1px;
@@ -5868,7 +5952,7 @@ ul#pills-tab {
   position: relative;
   max-width: 770px;
   width: 100%;
-  background: rgb(28 28 28 / 0.96);
+  rgb(28 28 28 / 0.96)
   box-shadow: 0 10px 30px 0 rgb(0 0 0 / 0.07);
 }
 .banner-style-three .slider-content .upper-box {
@@ -5930,7 +6014,13 @@ ul#pills-tab {
 .banner-style-three .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-6.png);
+  
+background-image: url(../images/icons/icon-6.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-6_320w.webp") 320w, url("../images/icons/640w/icon-6_640w.webp") 640w, url("../images/icons/1024w/icon-6_1024w.webp") 1024w, url("../images/icons/1920w/icon-6_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-6_320w.webp") 320w, url("../images/icons/640w/icon-6_640w.webp") 640w, url("../images/icons/1024w/icon-6_1024w.webp") 1024w, url("../images/icons/1920w/icon-6_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-6_320w.png") 320w, url("../images/icons/640w/icon-6_640w.png") 640w, url("../images/icons/1024w/icon-6_1024w.png") 1024w, url("../images/icons/1920w/icon-6_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-6_320w.png") 320w, url("../images/icons/640w/icon-6_640w.png") 640w, url("../images/icons/1024w/icon-6_1024w.png") 1024w, url("../images/icons/1920w/icon-6_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -5939,7 +6029,13 @@ ul#pills-tab {
 .banner-style-three .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-7.png);
+  
+background-image: url(../images/icons/icon-7.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-7_320w.webp") 320w, url("../images/icons/640w/icon-7_640w.webp") 640w, url("../images/icons/1024w/icon-7_1024w.webp") 1024w, url("../images/icons/1920w/icon-7_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-7_320w.webp") 320w, url("../images/icons/640w/icon-7_640w.webp") 640w, url("../images/icons/1024w/icon-7_1024w.webp") 1024w, url("../images/icons/1920w/icon-7_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-7_320w.png") 320w, url("../images/icons/640w/icon-7_640w.png") 640w, url("../images/icons/1024w/icon-7_1024w.png") 1024w, url("../images/icons/1920w/icon-7_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-7_320w.png") 320w, url("../images/icons/640w/icon-7_640w.png") 640w, url("../images/icons/1024w/icon-7_1024w.png") 1024w, url("../images/icons/1920w/icon-7_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -5969,7 +6065,7 @@ ul#pills-tab {
   top: 14px;
   width: 50px;
   height: 1px;
-  background: #d6d6d6;
+  #d6d6d6
 }
 .banner-style-three .owl-dots button span {
   display: none !important;
@@ -6031,7 +6127,7 @@ ul#pills-tab {
 .service-block-three .inner-box h6:before {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   height: 1px;
   width: 50px;
   right: 0;
@@ -6188,7 +6284,7 @@ ul#pills-tab {
 .chooseus-style-three .content-box .inner-box .single-item:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: calc(100% - 0px);
   top: 0;
@@ -6265,12 +6361,12 @@ ul#pills-tab {
 .industry-style-three {
   position: relative;
   padding: 120px 0 60px 0;
-  background: #1c1c1c;
+  #1c1c1c
 }
 .industry-style-three:before {
   position: absolute;
   content: "";
-  background: #f3f3f4;
+  #f3f3f4
   width: calc(50% - 45px);
   height: 450px;
   border: 1px solid #e2e2e2;
@@ -6333,7 +6429,7 @@ ul#pills-tab {
 .industries-block-one .inner-box .image-box:before {
   position: absolute;
   content: "";
-  background: #1c1c1c;
+  #1c1c1c
   width: 110px;
   height: calc(100% - 110px);
   right: 0;
@@ -6374,7 +6470,7 @@ ul#pills-tab {
   line-height: 70px;
   font-size: 30px;
   color: #fff;
-  background: rgb(38 63 217 / 0.9);
+  rgb(38 63 217 / 0.9)
   text-align: center;
 }
 .industries-block-one .inner-box:hover .content-box .link-box a {
@@ -6411,7 +6507,7 @@ ul#pills-tab {
   position: relative;
   display: block;
   max-width: 770px;
-  background: #f3f3f4;
+  #f3f3f4
   border: 1px solid #fff;
   box-shadow: 0 0 10px 0 rgb(0 0 0 / 10%);
   padding: 63px 100px 103px 100px;
@@ -6430,14 +6526,14 @@ ul#pills-tab {
   position: relative;
   width: 100%;
   height: 8px;
-  background: #e2e2e2;
+  #e2e2e2
 }
 .progress-box .bar-inner {
   position: relative;
   display: block;
   width: 0;
   height: 8px;
-  background: -webkit-linear-gradient(0deg, #f3f3f4, #ce020d 100%);
+  -webkit-linear-gradient(0deg, #f3f3f4, #ce020d 100%)
   -webkit-transition: all 1500ms ease;
   -ms-transition: all 1500ms ease;
   -o-transition: all 1500ms ease;
@@ -6445,7 +6541,7 @@ ul#pills-tab {
   transition: all 1500ms ease;
 }
 .home_3 .progress-box .bar-inner {
-  background: -webkit-linear-gradient(0deg, #f3f3f4, #263fd9 100%);
+  -webkit-linear-gradient(0deg, #f3f3f4, #263fd9 100%)
 }
 .progress-box .bar-inner:before {
   position: absolute;
@@ -6519,7 +6615,7 @@ ul#pills-tab {
   top: 0;
   width: 1px;
   height: 100%;
-  background: #d6d6d6;
+  #d6d6d6
 }
 .growth-section .bar-box .bar-1 {
   left: -1px;
@@ -6628,7 +6724,7 @@ ul#pills-tab {
   width: 50px;
   height: 50px;
   line-height: 56px;
-  background: #f3f3f4;
+  #f3f3f4
   text-align: center;
   font-size: 16px;
   color: #a9a6a5;
@@ -6718,7 +6814,7 @@ ul#pills-tab {
 .clients-style-two:before {
   position: absolute;
   content: "";
-  background: rgb(28 28 28);
+  rgb(28 28 28)
   width: 50%;
   height: 100%;
   left: 0;
@@ -6754,7 +6850,7 @@ ul#pills-tab {
 }
 .clients-style-two .clients-box {
   position: relative;
-  background: rgb(28 28 28);
+  rgb(28 28 28)
   padding-bottom: 60px;
 }
 .clients-style-two .clients-box h6 {
@@ -6792,7 +6888,7 @@ ul#pills-tab {
   position: relative;
   display: block;
   overflow: hidden;
-  background: #1c1c1c;
+  #1c1c1c
 }
 .case-block-three .inner-box .image-box img {
   width: 100%;
@@ -6886,11 +6982,11 @@ ul#pills-tab {
   line-height: 34px;
   color: #fff;
   font-weight: 700;
-  background: rgb(28 28 28 / 0.9);
+  rgb(28 28 28 / 0.9)
   transition: all 500ms ease;
 }
 .case-block-three .inner-box:hover .content-box h3 {
-  background: #fff0;
+  #fff0
 }
 .case-block-three .inner-box .content-box h3 a {
   display: inline-block;
@@ -6907,7 +7003,7 @@ ul#pills-tab {
   display: inline-block;
   width: 10px;
   height: 10px;
-  background: #d6d6d6;
+  #d6d6d6
   border-radius: 50%;
   cursor: pointer;
   margin: 0 15px;
@@ -6983,7 +7079,7 @@ ul#pills-tab {
   display: block;
   width: 100%;
   height: 62px;
-  background: #e1e1e1;
+  #e1e1e1
   border: 1px solid #e1e1e1;
   padding: 10px 30px;
   font-size: 17px;
@@ -7003,7 +7099,7 @@ ul#pills-tab {
 .news-block-two .inner-box:before {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   width: 40px;
   height: 1px;
   left: -40px;
@@ -7051,7 +7147,7 @@ ul#pills-tab {
 .news-block-two .inner-box .content-box .post-info li:before {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   width: 1px;
   height: 14px;
   top: 7px;
@@ -7158,7 +7254,7 @@ ul#pills-tab {
 .news-style-two .inner-column:before {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   width: 1px;
   height: 100%;
   top: 0;
@@ -7177,7 +7273,7 @@ ul#pills-tab {
   height: 60px;
   line-height: 60px;
   font-size: 16px;
-  background: #fff0;
+  #fff0
   border: 1px solid #d6d6d6;
   color: #1c1c1c;
   text-align: center;
@@ -7223,7 +7319,7 @@ ul#pills-tab {
 .testimonial-style-three .content-box {
   position: relative;
   display: block;
-  background: #fff;
+  #fff
   margin-left: 40px;
   padding-left: 60px;
   padding-bottom: 60px;
@@ -7276,7 +7372,7 @@ ul#pills-tab {
 .testimonial-block-one .inner-box p:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 40px);
   height: 1px;
   left: -40px;
@@ -7305,7 +7401,7 @@ ul#pills-tab {
   width: 60px;
   height: 60px;
   line-height: 60px;
-  background: #f3f3f4;
+  #f3f3f4
   text-align: center;
   font-size: 16px;
   color: #1c1c1c;
@@ -7343,7 +7439,7 @@ ul#pills-tab {
 .footer-style-three:before {
   position: absolute;
   content: "";
-  background: #000;
+  #000
   width: 100%;
   height: 100%;
   left: 0;
@@ -7479,22 +7575,22 @@ ul#pills-tab {
   text-align: center;
 }
 .footer-style-three .download-widget .social-links li:first-child a {
-  background: #3b5998;
+  #3b5998
 }
 .footer-style-three .download-widget .social-links li:nth-child(2) a {
-  background: #00acee;
+  #00acee
 }
 .footer-style-three .download-widget .social-links li:nth-child(3) a {
-  background: red;
+  red
 }
 .footer-style-three .download-widget .social-links li:last-child a {
-  background: #0e76a8;
+  #0e76a8
 }
 .footer-style-three .download-widget {
   margin-top: 3px;
 }
 .footer-style-three .footer-bottom {
-  background: #fff0;
+  #fff0
 }
 .footer-style-three .footer-bottom button {
   position: relative;
@@ -7531,7 +7627,7 @@ ul#pills-tab {
   content: "";
   width: 100%;
   height: 100%;
-  background: -webkit-linear-gradient(-90deg, rgb(0 0 0 / 0.6) 0%, #fff0 50%);
+  -webkit-linear-gradient(-90deg, rgb(0 0 0 / 0.6) 0%, #fff0 50%)
   bottom: 0;
   right: 0;
 }
@@ -7574,7 +7670,7 @@ ul#pills-tab {
   top: 0;
   width: 1px;
   height: 100%;
-  background: #fff;
+  #fff
   opacity: 0.15;
   z-index: 2;
 }
@@ -7632,7 +7728,7 @@ ul#pills-tab {
 .statements-section .tabs-content {
   position: relative;
   display: block;
-  background: #1c1c1c;
+  #1c1c1c
   overflow: hidden;
 }
 .statements-section .tabs-content .content-box {
@@ -7668,7 +7764,7 @@ ul#pills-tab {
   margin-bottom: 33px;
 }
 .statements-section .tabs-content .content-box .inner-box .theme-btn:hover {
-  background: #fff;
+  #fff
 }
 .statements-section
   .tabs-content
@@ -7714,7 +7810,7 @@ ul#pills-tab {
 }
 .certification-section .image-2 {
   position: relative;
-  background: #f3f1f1;
+  #f3f1f1
   padding: 10px;
   margin-left: 60px;
 }
@@ -7736,7 +7832,7 @@ ul#pills-tab {
   left: 50%;
   transform: translateX(-50%);
   bottom: 50px;
-  background: #fff;
+  #fff
   width: 145px;
   height: 74px;
   line-height: 74px;
@@ -7753,7 +7849,13 @@ ul#pills-tab {
 .certification-section .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-1.png);
+  
+background-image: url(../images/icons/icon-1.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -7770,7 +7872,13 @@ ul#pills-tab {
 .certification-section .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-2.png);
+  
+background-image: url(../images/icons/icon-2.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -7849,7 +7957,7 @@ ul#pills-tab {
   color: #fff;
 }
 .history-section .image-box .link-box a:hover {
-  background: #1c1c1c;
+  #1c1c1c
 }
 .history-section .content-box {
   position: relative;
@@ -7864,7 +7972,7 @@ ul#pills-tab {
 .history-section .content-box .text:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: calc(100% + 16px);
   top: 0;
@@ -7927,7 +8035,7 @@ ul#pills-tab {
 .team-section .tab-btn-box .tab-btns li:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 50px;
   height: 1px;
   left: 0;
@@ -7956,7 +8064,7 @@ ul#pills-tab {
 .team-section .tabs-box .btn-column:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: calc(100% + 192px);
   top: -114px;
@@ -7976,7 +8084,7 @@ ul#pills-tab {
   position: relative;
   display: block;
   overflow: hidden;
-  background: #1c1c1c;
+  #1c1c1c
 }
 .project-block-one .inner-box .image-box img {
   width: 100%;
@@ -8083,7 +8191,7 @@ ul#pills-tab {
 .sortable-masonry .filter-tabs li:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 100%;
   top: 0;
@@ -8162,7 +8270,13 @@ ul#pills-tab {
 .project-style-two .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-1.png);
+  
+background-image: url(../images/icons/icon-1.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -8179,7 +8293,13 @@ ul#pills-tab {
 .project-style-two .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-2.png);
+  
+background-image: url(../images/icons/icon-2.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -8215,7 +8335,7 @@ ul#pills-tab {
   position: relative;
   display: block;
   overflow: hidden;
-  background: #1c1c1c;
+  #1c1c1c
 }
 .project-block-two .inner-box .image-box .image img {
   width: 100%;
@@ -8363,7 +8483,7 @@ ul#pills-tab {
   position: absolute;
   top: 0;
   right: -23px;
-  background: #fff;
+  #fff
   width: 145px;
   height: 74px;
   line-height: 60px;
@@ -8379,7 +8499,13 @@ ul#pills-tab {
 .project-details .image-box .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-1.png);
+  
+background-image: url(../images/icons/icon-1.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -8396,7 +8522,13 @@ ul#pills-tab {
 .project-details .image-box .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-2.png);
+  
+background-image: url(../images/icons/icon-2.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -8426,7 +8558,7 @@ ul#pills-tab {
 .project-details .lower-box .tab-btns:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: calc(100% + 27px);
   left: 0;
@@ -8448,7 +8580,7 @@ ul#pills-tab {
 .project-details .lower-box .tab-btns li:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 0;
   height: 1px;
   left: 0;
@@ -8503,7 +8635,13 @@ ul#pills-tab {
 .project-details .lower-box .content-box .list-item li:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-10.png);
+  
+background-image: url(../images/icons/icon-10.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-10_320w.webp") 320w, url("../images/icons/640w/icon-10_640w.webp") 640w, url("../images/icons/1024w/icon-10_1024w.webp") 1024w, url("../images/icons/1920w/icon-10_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-10_320w.webp") 320w, url("../images/icons/640w/icon-10_640w.webp") 640w, url("../images/icons/1024w/icon-10_1024w.webp") 1024w, url("../images/icons/1920w/icon-10_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-10_320w.png") 320w, url("../images/icons/640w/icon-10_640w.png") 640w, url("../images/icons/1024w/icon-10_1024w.png") 1024w, url("../images/icons/1920w/icon-10_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-10_320w.png") 320w, url("../images/icons/640w/icon-10_640w.png") 640w, url("../images/icons/1024w/icon-10_1024w.png") 1024w, url("../images/icons/1920w/icon-10_1920w.png") 1920w);
+
   width: 18px;
   height: 18px;
   left: 0;
@@ -8576,7 +8714,7 @@ ul#pills-tab {
 .pricing-block-two .pricing-table .title-box {
   position: relative;
   display: block;
-  background: #1c1c1c;
+  #1c1c1c
   padding: 20px 30px 20px 40px;
 }
 .pricing-block-two .pricing-table .title-box h3 {
@@ -8593,7 +8731,7 @@ ul#pills-tab {
   position: relative;
   display: block;
   padding: 21px 40px 40px 40px;
-  background: #f3f1f1;
+  #f3f1f1
   border: 1px solid #e2e2e2;
   border-top: none;
 }
@@ -8625,10 +8763,10 @@ ul#pills-tab {
 }
 .pricing-block-two .pricing-table .feature-list li.light:before {
   content: "\f00d";
-  background: #a9a6a5;
+  #a9a6a5
 }
 .pricing-block-two .pricing-table .theme-btn {
-  background: #1c1c1c;
+  #1c1c1c
   width: 100%;
 }
 .pricing-block-two .pricing-table .theme-btn span:before {
@@ -8657,7 +8795,7 @@ ul#pills-tab {
   width: 100%;
   height: 50px;
   border: 1px solid #e2e2e2;
-  background: #fff;
+  #fff
   font-size: 17px;
   color: #827e7d;
   padding: 0 30px;
@@ -8673,7 +8811,7 @@ ul#pills-tab {
   width: 100%;
   height: 50px;
   border: 1px solid #e2e2e2;
-  background: #fff;
+  #fff
   font-size: 17px;
   color: #827e7d;
   padding: 0 30px;
@@ -8732,7 +8870,7 @@ ul#pills-tab {
 .default-sidebar .search-form .form-group:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 40px;
   left: 0;
@@ -8810,7 +8948,7 @@ ul#pills-tab {
 .default-sidebar .category-widget .category-list li a span:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 35px;
   left: -29px;
@@ -8858,21 +8996,21 @@ ul#pills-tab {
 .range-slider .input:after {
   position: absolute;
   content: "";
-  background: #fff;
+  #fff
   width: 100px;
   height: 100%;
   left: -61px;
   top: 0;
 }
 .range-slider .input input {
-  background: none;
+  none
   font-size: 17px;
   color: #827e7d;
 }
 .range-slider .ui-widget.ui-widget-content {
   height: 4px;
   border: none;
-  background: #dfe4e6;
+  #dfe4e6
   border-radius: 0;
 }
 .range-slider .ui-slider .ui-slider-range {
@@ -9004,7 +9142,7 @@ ul#pills-tab {
 .shop-block-one .inner-box .image-box:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% - 30px);
   height: 1px;
   right: 0;
@@ -9033,7 +9171,7 @@ ul#pills-tab {
   line-height: 26px;
   font-family: "Moderustic", sans-serif;
   color: #fff;
-  background: #1c1c1c;
+  #1c1c1c
   font-weight: 700;
   text-transform: uppercase;
   padding: 0 9px;
@@ -9202,7 +9340,7 @@ ul#pills-tab {
   position: absolute;
   height: 54px;
   width: 40px;
-  background: #fff0;
+  #fff0
   padding: 0 0;
   left: -45px;
   top: -54px;
@@ -9213,7 +9351,7 @@ ul#pills-tab {
   position: absolute;
   height: 54px;
   width: 40px;
-  background: #fff0;
+  #fff0
   padding: 0 0;
   right: -45px;
   top: -54px;
@@ -9355,7 +9493,7 @@ ul#pills-tab {
   line-height: 44px;
   text-align: center;
   font-size: 20px;
-  background: #3b5998;
+  #3b5998
   color: #fff;
 }
 .shop-details-content
@@ -9364,7 +9502,7 @@ ul#pills-tab {
   .share-links
   li:nth-child(2)
   a {
-  background: #55acee;
+  #55acee
 }
 .shop-details-content
   .content-box
@@ -9372,10 +9510,10 @@ ul#pills-tab {
   .share-links
   li:nth-child(3)
   a {
-  background: #0071bc;
+  #0071bc
 }
 .shop-details-content .content-box .share-option .share-links li:last-child a {
-  background: #cd201f;
+  #cd201f
 }
 .shop-details-content {
   margin-bottom: 120px;
@@ -9591,7 +9729,7 @@ ul#pills-tab {
   left: 0;
   width: 14px;
   height: 14px;
-  background: #f3f1f1;
+  #f3f1f1
   border: 1px solid #e2e2e2;
   cursor: pointer;
 }
@@ -9669,7 +9807,7 @@ ul#pills-tab {
   border: 1px solid #e2e2e2;
 }
 .cart-table tbody tr .qty .quantity-spinner {
-  background: #fff;
+  #fff
 }
 .cart-table tbody tr .prod-column .column-box {
   position: relative;
@@ -9773,7 +9911,7 @@ ul#pills-tab {
   font-weight: 400;
   color: #827e7d;
   padding: 10px 20px;
-  background: #fff;
+  #fff
   transition: all 500ms ease;
 }
 .cart-section .apply-coupon .form-group button {
@@ -9783,7 +9921,7 @@ ul#pills-tab {
   font-weight: 600;
   font-family: "Moderustic", sans-serif;
   color: #1c1c1c;
-  background: #f3f1f1;
+  #f3f1f1
   border: 1px solid #e2e2e2;
   padding: 12.5px 29px;
   cursor: pointer;
@@ -9804,11 +9942,11 @@ ul#pills-tab {
   color: #fff;
 }
 .cart-section .btn-box .checkout-btn:hover {
-  background: #1c1c1c;
+  #1c1c1c
 }
 .cart-section .btn-box .theme-btn {
   padding: 15px 44px;
-  background: #1c1c1c;
+  #1c1c1c
   color: #fff;
 }
 .checkout-page-section {
@@ -9841,7 +9979,7 @@ ul#pills-tab {
   display: block;
   width: 100%;
   height: 60px;
-  background: #f3f1f1;
+  #f3f1f1
   border: 1px solid #f3f1f1;
   font-size: 17px;
   color: #827e7d;
@@ -9852,7 +9990,7 @@ ul#pills-tab {
   position: relative;
   border: 1px solid #f3f1f1 !important;
   color: #827e7d;
-  background: #f3f1f1;
+  #f3f1f1
   height: 60px;
   line-height: 60px;
   border-radius: 0;
@@ -9861,7 +9999,7 @@ ul#pills-tab {
 }
 .checkout-page-section .information-inner .field-input .nice-select:after {
   content: "";
-  background: #fff0;
+  #fff0
   border-bottom: 2px solid #a9a6a5;
   border-right: 2px solid #a9a6a5;
   transform: rotate(45deg) !important;
@@ -9913,7 +10051,7 @@ ul#pills-tab {
   width: 100%;
   height: 60px;
   border: 1px solid #fff;
-  background: #fff;
+  #fff
   font-size: 17px;
   color: #827e7d;
   padding: 10px 20px;
@@ -9952,7 +10090,7 @@ ul#pills-tab {
 .checkout-page-section .accordion-box .block .acc-btn {
   padding: 17px 30px 18px 30px;
   border: none;
-  background: transparent !important;
+  transparent !important
 }
 .checkout-page-section .accordion-box .block .acc-btn .icon-outer {
   position: absolute;
@@ -10030,7 +10168,7 @@ ul#pills-tab {
 .myaccount-section .login-content .form-inner {
   position: relative;
   display: block;
-  background: #f3f1f1;
+  #f3f1f1
   padding: 32px 40px 39px 40px;
   border: 1px solid #e2e2e2;
 }
@@ -10055,7 +10193,7 @@ ul#pills-tab {
   display: block;
   width: 100%;
   height: 54px;
-  background: #fff;
+  #fff
   border: 1px solid #e2e2e2;
   font-size: 18px;
   color: #75706d;
@@ -10085,7 +10223,7 @@ ul#pills-tab {
 .myaccount-section
   .custom-control.material-checkbox
   .material-control-indicator {
-  background: #fff;
+  #fff
 }
 .myaccount-section .custom-controls-stacked .description {
   color: #827e7d;
@@ -10109,7 +10247,7 @@ ul#pills-tab {
   padding-top: 10px;
 }
 .myaccount-section .register-content .form-inner input {
-  background: #f3f1f1;
+  #f3f1f1
 }
 .myaccount-section
   .register-content
@@ -10126,7 +10264,7 @@ ul#pills-tab {
 .faq-page-section .sidebar-side:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 100%;
   right: 25px;
@@ -10162,7 +10300,7 @@ ul#pills-tab {
 .faq-page-section .faq-sidebar .category-list li a:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 50px;
   height: 1px;
   left: 0;
@@ -10204,7 +10342,7 @@ ul#pills-tab {
 .faq-page-section .image-box .image:before {
   position: absolute;
   content: "";
-  background: #000;
+  #000
   width: 100%;
   height: 100%;
   left: 0;
@@ -10232,7 +10370,13 @@ ul#pills-tab {
   font-weight: 400;
 }
 .faq-page-section .image-box .image-content .theme-btn.btn-two span:before {
-  background: url(../images/icons/icon-bg-2.png);
+  
+background: url(../images/icons/icon-bg-2.png);
+background: -webkit-image-set(url("../images/icons/320w/icon-bg-2_320w.webp") 320w, url("../images/icons/640w/icon-bg-2_640w.webp") 640w, url("../images/icons/1024w/icon-bg-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-bg-2_1920w.webp") 1920w); 
+background: image-set(url("../images/icons/320w/icon-bg-2_320w.webp") 320w, url("../images/icons/640w/icon-bg-2_640w.webp") 640w, url("../images/icons/1024w/icon-bg-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-bg-2_1920w.webp") 1920w);
+background: -webkit-image-set(url("../images/icons/320w/icon-bg-2_320w.png") 320w, url("../images/icons/640w/icon-bg-2_640w.png") 640w, url("../images/icons/1024w/icon-bg-2_1024w.png") 1024w, url("../images/icons/1920w/icon-bg-2_1920w.png") 1920w);
+background: image-set(url("../images/icons/320w/icon-bg-2_320w.png") 320w, url("../images/icons/640w/icon-bg-2_640w.png") 640w, url("../images/icons/1024w/icon-bg-2_1024w.png") 1024w, url("../images/icons/1920w/icon-bg-2_1920w.png") 1920w);
+
   color: #fff;
 }
 .error-section {
@@ -10347,7 +10491,7 @@ ul#pills-tab {
   width: 44px;
   height: 44px;
   line-height: 48px;
-  background: #f3f1f1;
+  #f3f1f1
   font-size: 20px;
   color: #232323;
   cursor: pointer;
@@ -10361,7 +10505,7 @@ ul#pills-tab {
   margin-left: 0;
 }
 .chooseus-style-three.service-page-one .image-box .text-box {
-  background: rgb(228 73 46 / 0.95);
+  rgb(228 73 46 / 0.95)
 }
 .chooseus-style-three.service-page-one .content-box .download-box .icon-box {
   color: #fff;
@@ -10462,7 +10606,7 @@ ul#pills-tab {
 .service-sidebar .category-widget .category-list li a:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 37px;
   top: -18px;
@@ -10513,7 +10657,7 @@ ul#pills-tab {
 .service-sidebar .download-widget .download-list {
   position: relative;
   display: block;
-  background: #f3f1f1;
+  #f3f1f1
   border: 1px solid #e2e2e2;
   padding-left: 30px;
 }
@@ -10551,7 +10695,7 @@ ul#pills-tab {
 .service-sidebar .contact-widget {
   position: relative;
   display: block;
-  background: #1c1c1c;
+  #1c1c1c
   padding-left: 30px;
 }
 .service-sidebar .contact-widget .widget-title {
@@ -10673,7 +10817,7 @@ ul#pills-tab {
   position: absolute;
   top: 0;
   right: -24px;
-  background: #fff;
+  #fff
   width: 144px;
   height: 74px;
   line-height: 62px;
@@ -10689,7 +10833,13 @@ ul#pills-tab {
 .service-details-content .content-one .owl-nav button.owl-prev:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-1.png);
+  
+background-image: url(../images/icons/icon-1.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-1_320w.webp") 320w, url("../images/icons/640w/icon-1_640w.webp") 640w, url("../images/icons/1024w/icon-1_1024w.webp") 1024w, url("../images/icons/1920w/icon-1_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-1_320w.png") 320w, url("../images/icons/640w/icon-1_640w.png") 640w, url("../images/icons/1024w/icon-1_1024w.png") 1024w, url("../images/icons/1920w/icon-1_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -10706,7 +10856,13 @@ ul#pills-tab {
 .service-details-content .content-one .owl-nav button.owl-next:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-2.png);
+  
+background-image: url(../images/icons/icon-2.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-2_320w.webp") 320w, url("../images/icons/640w/icon-2_640w.webp") 640w, url("../images/icons/1024w/icon-2_1024w.webp") 1024w, url("../images/icons/1920w/icon-2_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-2_320w.png") 320w, url("../images/icons/640w/icon-2_640w.png") 640w, url("../images/icons/1024w/icon-2_1024w.png") 1024w, url("../images/icons/1920w/icon-2_1920w.png") 1920w);
+
   width: 38px;
   height: 24px;
   left: 0;
@@ -10790,7 +10946,7 @@ ul#pills-tab {
   width: 26px;
   height: 26px;
   line-height: 28px;
-  background: #f3f1f1;
+  #f3f1f1
   border: 1px solid #e3e3e3;
   font-size: 12px;
   color: #242424;
@@ -10807,7 +10963,7 @@ ul#pills-tab {
 .service-details-content .content-two .service-list:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 100%;
   left: 50%;
@@ -10852,7 +11008,7 @@ ul#pills-tab {
   .bg-layer:before {
   position: absolute;
   content: "";
-  background: #1c1c1c;
+  #1c1c1c
   width: 100%;
   height: 100%;
   left: 0;
@@ -10868,7 +11024,7 @@ ul#pills-tab {
   color: #1c1c1c;
   font-weight: 700;
   padding: 19px 30px;
-  background: #f3f1f1;
+  #f3f1f1
   border: 1px solid #e2e2e2;
   cursor: pointer;
   border-bottom: none;
@@ -10879,7 +11035,7 @@ ul#pills-tab {
   border-bottom: 1px solid #e2e2e2;
 }
 .service-details-content .content-three .tab-btns li.active-btn {
-  background: #fff0;
+  #fff0
   color: #fff;
   border: #fff0;
 }
@@ -10929,7 +11085,7 @@ ul#pills-tab {
   padding: 23px 35px 40px 0;
 }
 .industry-style-three.industries-page-one {
-  background: #fff;
+  #fff
 }
 .industry-style-three.industries-page-one:before {
   display: none;
@@ -10938,7 +11094,7 @@ ul#pills-tab {
   .industries-block-one
   .inner-box
   .image-box:before {
-  background: #fff;
+  #fff
 }
 .industry-style-three.industries-page-one
   .industries-block-one
@@ -10946,7 +11102,7 @@ ul#pills-tab {
   .content-box
   .link-box
   a {
-  background: rgb(228 73 46 / 0.9);
+  rgb(228 73 46 / 0.9)
 }
 .industry-style-three.industries-page-one
   .industries-block-one
@@ -10964,7 +11120,7 @@ ul#pills-tab {
   color: #1c1c1c;
 }
 .testimonial-style-two:before {
-  background: #1c1c1c;
+  #1c1c1c
 }
 .testimonial-style-two.industries-page-two .light-icon {
   color: #fff0;
@@ -11096,7 +11252,7 @@ ul#pills-tab {
 .industry-style-four .content-box .search-form .form-group:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 115px);
   height: 1px;
   right: 0;
@@ -11112,11 +11268,9 @@ ul#pills-tab {
   transition: all 500ms ease;
 }
 .industries-details .service-block-two .inner-box .image-box .image:before {
-  background: -webkit-linear-gradient(
-    90deg,
-    rgb(0 0 0 / 0.6) 0%,
-    rgb(0 0 0 / 0.2) 50%
-  );
+  -webkit-linear-gradient(
+    90deg, rgb(0 0 0 / 0.6) 0%, rgb(0 0 0 / 0.2) 50%
+  )
 }
 .blog-grid {
   position: relative;
@@ -11209,14 +11363,14 @@ ul#pills-tab {
   content: "";
   width: 16px;
   height: 16px;
-  background: #f3f1f1;
+  #f3f1f1
   border: 1px solid #e2e2e2;
   left: 0;
   top: 5px;
   transition: all 500ms ease;
 }
 .blog-sidebar .tags-widget .tags-list li a:hover:before {
-  background: #fff0;
+  #fff0
 }
 .blog-sidebar .tags-widget .tags-list li a:after {
   position: absolute;
@@ -11249,7 +11403,7 @@ ul#pills-tab {
 .blog-sidebar .appointment-widget .image-box .image:before {
   position: absolute;
   content: "";
-  background: #000;
+  #000
   width: 100%;
   height: 100%;
   left: 0;
@@ -11282,7 +11436,13 @@ ul#pills-tab {
   .image-content
   .theme-btn.btn-two
   span:before {
-  background: url(../images/icons/icon-bg-3.png);
+  
+background: url(../images/icons/icon-bg-3.png);
+background: -webkit-image-set(url("../images/icons/320w/icon-bg-3_320w.webp") 320w, url("../images/icons/640w/icon-bg-3_640w.webp") 640w, url("../images/icons/1024w/icon-bg-3_1024w.webp") 1024w, url("../images/icons/1920w/icon-bg-3_1920w.webp") 1920w); 
+background: image-set(url("../images/icons/320w/icon-bg-3_320w.webp") 320w, url("../images/icons/640w/icon-bg-3_640w.webp") 640w, url("../images/icons/1024w/icon-bg-3_1024w.webp") 1024w, url("../images/icons/1920w/icon-bg-3_1920w.webp") 1920w);
+background: -webkit-image-set(url("../images/icons/320w/icon-bg-3_320w.png") 320w, url("../images/icons/640w/icon-bg-3_640w.png") 640w, url("../images/icons/1024w/icon-bg-3_1024w.png") 1024w, url("../images/icons/1920w/icon-bg-3_1920w.png") 1920w);
+background: image-set(url("../images/icons/320w/icon-bg-3_320w.png") 320w, url("../images/icons/640w/icon-bg-3_640w.png") 640w, url("../images/icons/1024w/icon-bg-3_1024w.png") 1024w, url("../images/icons/1920w/icon-bg-3_1920w.png") 1920w);
+
   color: #fff;
 }
 .blog-list-one .blog-list-content {
@@ -11291,7 +11451,7 @@ ul#pills-tab {
 .blog-list-one .blog-list-content:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: 100%;
   left: -40px;
@@ -11331,7 +11491,7 @@ ul#pills-tab {
 .news-block-one .inner-box .lower-content .link-box a:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 14px;
   height: 1px;
   left: -29px;
@@ -11356,7 +11516,7 @@ ul#pills-tab {
   line-height: 26px;
   text-align: center;
   border-radius: 50%;
-  background: #fff0;
+  #fff0
   top: -1px;
   right: 0;
   transition: all 500ms ease;
@@ -11408,7 +11568,7 @@ ul#pills-tab {
   transform: rotate(90deg);
 }
 .blog-sidebar .appointment-widget .image-box .theme-btn:hover {
-  background: #fff;
+  #fff
 }
 .blog-details {
   border-top: 1px solid #e2e2e2;
@@ -11422,7 +11582,7 @@ ul#pills-tab {
 .blog-details .content-side:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: calc(100% + 120px);
   top: 0;
@@ -11441,7 +11601,7 @@ ul#pills-tab {
 .blog-details-content .content-one .title-box:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 30px);
   height: 1px;
   left: 0;
@@ -11468,7 +11628,7 @@ ul#pills-tab {
   height: 30px;
   line-height: 30px;
   border: 1px solid #e2e2e2;
-  background: #f3f1f1;
+  #f3f1f1
   text-align: center;
   font-size: 15px;
   color: #a9a6a5;
@@ -11510,7 +11670,7 @@ ul#pills-tab {
 .blog-details-content .content-one .post-info li:before {
   position: absolute;
   content: "";
-  background: #d6d6d6;
+  #d6d6d6
   width: 1px;
   height: 14px;
   top: 7px;
@@ -11576,7 +11736,7 @@ ul#pills-tab {
 .blog-details-content .content-two blockquote:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 1px;
   height: calc(100% - 18px);
   left: 100px;
@@ -11601,7 +11761,7 @@ ul#pills-tab {
 .blog-details-content .content-two blockquote p:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 30px);
   height: 1px;
   right: 0;
@@ -11703,7 +11863,7 @@ ul#pills-tab {
 .blog-details-content .content-three:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 30px);
   height: 1px;
   left: 0;
@@ -11748,14 +11908,14 @@ ul#pills-tab {
   font-weight: 700;
   text-transform: uppercase;
   color: #1c1c1c;
-  background: #f3f3f3;
+  #f3f3f3
   border: 1px solid #e2e2e2;
   padding: 15px 30px;
   text-align: center;
   width: 100%;
 }
 .blog-details-content .post-nav .btn-box a:hover {
-  background: #1c1c1c;
+  #1c1c1c
   border-color: #1c1c1c;
 }
 .blog-details-content .post-nav .btn-box a span {
@@ -11765,7 +11925,13 @@ ul#pills-tab {
 .blog-details-content .post-nav .btn-box a span:before {
   position: absolute;
   content: "";
-  background-image: url(../images/icons/icon-11.png);
+  
+background-image: url(../images/icons/icon-11.png);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-11_320w.webp") 320w, url("../images/icons/640w/icon-11_640w.webp") 640w, url("../images/icons/1024w/icon-11_1024w.webp") 1024w, url("../images/icons/1920w/icon-11_1920w.webp") 1920w); 
+background-image: image-set(url("../images/icons/320w/icon-11_320w.webp") 320w, url("../images/icons/640w/icon-11_640w.webp") 640w, url("../images/icons/1024w/icon-11_1024w.webp") 1024w, url("../images/icons/1920w/icon-11_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../images/icons/320w/icon-11_320w.png") 320w, url("../images/icons/640w/icon-11_640w.png") 640w, url("../images/icons/1024w/icon-11_1024w.png") 1024w, url("../images/icons/1920w/icon-11_1920w.png") 1920w);
+background-image: image-set(url("../images/icons/320w/icon-11_320w.png") 320w, url("../images/icons/640w/icon-11_640w.png") 640w, url("../images/icons/1024w/icon-11_1024w.png") 1024w, url("../images/icons/1920w/icon-11_1920w.png") 1920w);
+
   width: 12px;
   height: 12px;
   left: 0;
@@ -11780,7 +11946,7 @@ ul#pills-tab {
 .blog-details-content .post-nav:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 30px);
   height: 1px;
   left: 0;
@@ -11849,16 +12015,16 @@ ul#pills-tab {
   text-align: center;
   font-size: 20px;
   color: #fff;
-  background: #3b5998;
+  #3b5998
 }
 .blog-details-content .author-box .inner-box .social-links li:nth-child(2) a {
-  background: #55acee;
+  #55acee
 }
 .blog-details-content .author-box .inner-box .social-links li:nth-child(3) a {
-  background: #0071bc;
+  #0071bc
 }
 .blog-details-content .author-box .inner-box .social-links li:last-child a {
-  background: #cd201f;
+  #cd201f
 }
 .blog-details-content .author-box {
   position: relative;
@@ -11868,7 +12034,7 @@ ul#pills-tab {
 .blog-details-content .author-box:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 30px);
   height: 1px;
   left: 0;
@@ -11957,7 +12123,7 @@ ul#pills-tab {
 .blog-details-content .comments-box:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: calc(100% + 30px);
   height: 1px;
   left: 0;
@@ -12036,7 +12202,7 @@ ul#pills-tab {
   width: 80px;
   height: 80px;
   line-height: 88px;
-  background: #f3f1f1;
+  #f3f1f1
   font-size: 38px;
   text-align: center;
   border-radius: 50%;
@@ -12074,7 +12240,7 @@ ul#pills-tab {
   height: 50px;
   line-height: 68px;
   text-align: center;
-  background: #e2e2e2;
+  #e2e2e2
   font-size: 22px;
   color: #a9a6a5;
   margin-bottom: 22px 15px;
@@ -12085,7 +12251,7 @@ ul#pills-tab {
 .info-block-one .inner-box .icon-box:before {
   position: absolute;
   content: "";
-  background: #fff;
+  #fff
   width: calc(100% - 2px);
   height: calc(100% - 2px);
   left: 1px;
@@ -12164,7 +12330,7 @@ ul#pills-tab {
 .contact-info-section .inner-container:before {
   position: absolute;
   content: "";
-  background: #e2e2e2;
+  #e2e2e2
   width: 100%;
   height: 1px;
   left: 0;
@@ -12246,7 +12412,7 @@ ul#pills-tab {
 }
 #enquire-cta {
   top: 74%;
-  background-image: linear-gradient(to top, #035a42 0%, #24a7f1 100%);
+  linear-gradient(to top, #035a42 0%, #24a7f1 100%)
   font-size: 18px;
   left: -64px;
   padding: 13px;
@@ -12278,7 +12444,7 @@ ul#pills-tab {
   }
   .mv-enquire-cta {
     top: 67%;
-    background-image: linear-gradient(to top, #035a42 0%, #24a7f1 100%);
+    linear-gradient(to top, #035a42 0%, #24a7f1 100%)
     font-size: 24px;
     left: 0;
     z-index: 99999;
@@ -12412,13 +12578,13 @@ ul#pills-tab {
   }
 }
 i.fa-solid.fa-angle-left {
-  background-image: linear-gradient(to top, #035a42 0%, #24a7f1 100%);
+  linear-gradient(to top, #035a42 0%, #24a7f1 100%)
   opacity: unset;
   padding: 15px;
   border-radius: 25px;
 }
 i.fa-solid.fa-angle-right {
-  background-image: linear-gradient(to top, #035a42 0%, #24a7f1 100%);
+  linear-gradient(to top, #035a42 0%, #24a7f1 100%)
   opacity: unset;
   padding: 15px;
   border-radius: 25px;

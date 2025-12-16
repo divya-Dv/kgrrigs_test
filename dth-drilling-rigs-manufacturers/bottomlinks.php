@@ -1,7 +1,6 @@
-<!-- Google Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Moderustic:wght@300..800&display=swap" rel="stylesheet">
+<!-- Google Fonts --><html><head><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Moderustic:wght@300..800&amp;display=swap" rel="stylesheet">
  <!-- Stylesheets -->
 <link href="assets/css/font-awesome-all.css" rel="stylesheet">
 <link href="assets/css/flaticon.css" rel="stylesheet">
@@ -106,5 +105,6 @@ function googleTranslateElementInit() {
 }
 </script>
 
-<script async src="https://backend.livhousing.com/bot/create-script-tag?token=10c72d82-db21-4e6e-b5f0-65794e9b94df" type="application/javascript"></script>
+<script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=10c72d82-db21-4e6e-b5f0-65794e9b94df" type="application/javascript"></script>
 
+</head><body></body></html>
