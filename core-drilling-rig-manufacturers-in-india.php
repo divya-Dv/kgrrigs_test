@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<meta name="description" content="Core Drilling Rig Manufacturers in India. Kgr Rigs is aware of the numerous uses of drilling rigs, and their significance of innovative rigs. Contact." />
+<link rel="canonical" href="https://www.kgrrigs.com/core-drilling-rig-manufacturers-in-india.php" />
+
+<title>Core Drilling Rig Manufacturers in India | Kgr Rigs</title>
+
+<?php include_once("seo-tags.php"); ?>
+
+<!-- favicon icon -->
+<link rel="shortcut icon" href="images/kgr/faveicon.png" />
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="css/animate.css" rel="stylesheet" type="text/css" />
+<link href="css/fontawesome-all.css" rel="stylesheet" type="text/css" />
+<link href="css/themify-icons.css" rel="stylesheet" type="text/css" />
+<link href="css/audioplayer/plyr.css" rel="stylesheet" type="text/css" />
+<link href="css/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css" />
+<link href="css/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css" />
+<link href="css/base.css" rel="stylesheet" type="text/css" />
+<link href="css/shortcodes.css" rel="stylesheet" type="text/css" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/responsive.css" rel="stylesheet" type="text/css" />
+<link href="css/theme-color/theme-orange.css" data-style="styles" rel="stylesheet">
+<!-- inject css end -->
+<!-- Google Tag Manager -->
+<!--<script>-->
+<!--(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':-->
+<!--new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],-->
+<!--j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=-->
+<!--'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);-->
+<!--})(window,document,'script','dataLayer','GTM-NKC48FM');-->
+<!--</script>-->
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N3BMFQ9');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3BMFQ9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager (noscript) -->
+<!--<noscript>-->
+<!--    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKC48FM"-->
+<!--height="0" width="0" style="display:none;visibility:hidden"></iframe>-->
+<!--</noscript>-->
+<!-- End Google Tag Manager (noscript) -->
+<!-- page wrapper start -->
+
+<div class="page-wrapper">
+
+<!--header start-->
+<?php include_once("header.php"); ?>
+<!--header end-->
+
+<!--page title start-->
+<section class="page-title o-hidden text-center parallaxie" data-overlay="5" data-bg-img="images/kgr/16.jpg">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-12 ml-auto mr-auto">
+        <h1 class="title mb-0 phseo">Core Drilling Rig Manufacturers In India</h1>
+      </div>
+    </div>
+    <nav aria-label="breadcrumb" class="page-breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a>
+        </li>
+        <li class="breadcrumb-item"><a href="sitemap.php">Sitemap</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">Core Drilling Rig Manufacturers In India</li>
+      </ol>
+    </nav>
+  </div>
+</section>
+
+<!--page title end-->
+
+
+<!--body content start-->
+
+<div class="page-content">
+
+<!--team start-->
+
+<section class="seo-section grey-bg pattern feuture-bottom" data-bg-img="images/kgr/pattern.png">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-lg-5 col-md-5">
+       <div class="masonry row popup-gallery">
+          <div class="grid-sizer"></div>
+          <div class="masonry-brick cat3">
+            <div class="portfolio-item">
+              <img src="images/kgr/core-drilling-rig.jpg" alt="CORE DRILLING RIG MANUFACTURERS IN INDIA">
+              <div class="portfolio-hover">
+                <div class="portfolio-title">
+                  <h4>Core Drilling Rig Manufacturers In India</h4>
+                </div>
+                <div class="portfolio-icon">
+                  <a class="popup popup-img" href="images/kgr/h26.jpg"> <i class="flaticon-magnifier"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-7 col-md-7 md-mt-3">
+        <div class="team-description">
+          <h2 class="title phd z-index-1 mb-4">Core Drilling Rig Manufacturers In India</h2>
+          <p class="lead">Looking for <b>core drilling rig manufacturers in India?</b> We recommend choosing KGR Rigs.</p>
+          <p class="lead">We are well renowned for manufacturing diverse types of rigs suitable for varied applications such as mining, construction, and many more. A few of our top-tier products that have been exclusively utilized by the customers are Friction Welded Drill Pipes, Customized Rigs, KGR DTH (1000,1500,2000), KGR CD -35(LM 100), Tractor Mounted Rigs, DTH Hammers and Button Bits. We have over 200 highly experienced engineers who ensure that our products comply with stringent quality standards. Our <a href="our-presence.php">client</a> satisfaction serves as a testament to our ability to manufacture the highest quality, reliable, and durable products. We have an in-house manufacturing facility, system controlled sealed quenching heat-treatment plant, and a CNC Machine shop to ensure that our products are meticulously manufactured, adequately maintained, and safely delivered to our customers. We have completed more than 200 projects and are actively involved in doing thorough research to expand our product range. </p>
+          <p class="lead">Core drilling rigs have been used to extract the cylindrical samples or core from the rock, soil, and other substances to examine its various properties. These are used in several applications mainly in mining and concrete works. As one of the top-notch <b>core drilling rig manufacturers in India,</b> we are aware of the numerous uses of drilling rigs, and their significance thereby we are committed to manufacturing a diverse range of innovative rigs for our products.</p>
+          <p class="lead">Our products are supplied to the various local and international markets. To name a few, we have been actively exporting our products to various states in India, such as Bihar, Karnataka, West Bengal, Tamilnadu, Rajasthan, and Orissa. A few of the countries our products are delivered to are Turkey, Iran, Dubai, Zimbabwe, Afghanistan, and Korea. As one of the leading <b>core drilling rig manufacturers in India,</b> we primarily focus on adhering to quality standards and producing top-notch, customer-centric products for our customers.</p>
+<p class="line-h-2 mb-0 md-mt-5 mt-20">See also <a href="mining-rig-manufacturers-in-india.php">Mining Rig Manufacturers In India</a></p>
+
+
+        </div>
+      </div>
+
+      <div class="col-lg-12 col-md-12 md-mt-5">
+        <div class="tab style-2">
+          <!-- Nav tabs -->
+          <nav>
+            <!-- <div class="nav nav-tabs" id="nav-tab" role="tablist"> <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#tab1-1" role="tab" aria-selected="true">Specifications</a> -->
+            </div>
+          </nav>
+          <!-- Tab panes -->
+          <!--<div class="tab-content" id="nav-tabContent">
+            <div role="tabpanel" class="tab-pane fade show active" id="tab1-1">
+              <div class="row text-black mt-4">
+                <div class="col-sm-12">
+                  <p>Drilling depth ranges from 1000 to 2000 ft.</p>
+                  <p>Formation or Strata is soft, medium and hard</p>
+                  <p>The maximum pressure of operation is 230-kg/sq.cm.</p>
+                  <p><strong class="mast">MAST Capacity : </strong> 18 tons to 40 tons</p>
+                  <p><strong class="mast">MAST Capacity in terms of Rod Handling : </strong> 20 feet.</p>
+                  <p><strong class="mast">MAST height : </strong> 9 mts.</p>
+                  <p><strong class="mast">Pull up Speed : </strong> 20 mts/min to 42 mts/min.</p>
+                  <p><strong class="mast">Pull down Speed : </strong> 30-50 mts/min.</p>
+                  
+                  <p class="line-h-2 mb-0">In the drilling rig industry, it’s our commitment to bring on the best in our products. Hence, we stand as the refined <strong>DTH drilling rig manufacturers</strong>.</p>-->
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    </div>
+  </div>
+</section>
+
+</div>
+</div>
+<!--page wrapper end-->
+
+<!--footer start-->
+
+<!--footer end--> 
+
+<!-- inject js start -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.appear.js"></script> 
+<script src="js/modernizr.js"></script> 
+<script src="js/menu/jquery.smartmenus.js"></script>
+<script src="js/audioplayer/plyr.min.js"></script>
+<script src="js/magnific-popup/jquery.magnific-popup.min.js"></script> 
+<script src="js/owl-carousel/owl.carousel.min.js"></script> 
+<script src="js/parallax/parallaxie.min.js"></script>
+<script src="js/counter/counter.js"></script> 
+<script src="js/countdown/jquery.countdown.min.js"></script> 
+<script src="js/isotope/isotope.pkgd.min.js"></script> 
+<script src="js/theme-script.js"></script>
+<?php include_once("footer.php"); ?>
+</body>
+</html>
